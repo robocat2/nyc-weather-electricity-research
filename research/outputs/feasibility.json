@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "matched_hours": 43700,
+  "expected_hours": 43824,
+  "excluded_hours": 124,
+  "minimum_annual_coverage": 0.9878995433789954,
+  "minimum_monthly_coverage": 0.928763440860215,
+  "longest_missing_run_hours": 90,
+  "load_duplicate_utc_hours": 0,
+  "weather_duplicate_utc_hours": 0
+}

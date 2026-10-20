@@ -1,0 +1,162 @@
+[
+  {
+    "delivery_date": "2021-01-15",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20210101damlbmp_zone_csv.zip",
+    "columns": [
+      "Time Stamp",
+      "Name",
+      "PTID",
+      "LBMP ($/MWHr)",
+      "Marginal Cost Losses ($/MWHr)",
+      "Marginal Cost Congestion ($/MWHr)"
+    ],
+    "nyc_hourly_rows": 24,
+    "hour_18_rows": 1,
+    "nyc_timestamp_unique": true,
+    "numeric_prices": true,
+    "publication_timestamp_column": false,
+    "historical_daily_head_error": "HTTP Error 404: Not Found",
+    "target_zip_member_naive_timestamp": "2021-01-14T09:34:04",
+    "zip_member_timestamp_has_timezone": false
+  },
+  {
+    "delivery_date": "2021-07-15",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20210701damlbmp_zone_csv.zip",
+    "columns": [
+      "Time Stamp",
+      "Name",
+      "PTID",
+      "LBMP ($/MWHr)",
+      "Marginal Cost Losses ($/MWHr)",
+      "Marginal Cost Congestion ($/MWHr)"
+    ],
+    "nyc_hourly_rows": 24,
+    "hour_18_rows": 1,
+    "nyc_timestamp_unique": true,
+    "numeric_prices": true,
+    "publication_timestamp_column": false,
+    "historical_daily_head_error": "HTTP Error 404: Not Found",
+    "target_zip_member_naive_timestamp": "2021-07-14T09:33:04",
+    "zip_member_timestamp_has_timezone": false
+  },
+  {
+    "delivery_date": "2023-01-15",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20230101damlbmp_zone_csv.zip",
+    "columns": [
+      "Time Stamp",
+      "Name",
+      "PTID",
+      "LBMP ($/MWHr)",
+      "Marginal Cost Losses ($/MWHr)",
+      "Marginal Cost Congestion ($/MWHr)"
+    ],
+    "nyc_hourly_rows": 24,
+    "hour_18_rows": 1,
+    "nyc_timestamp_unique": true,
+    "numeric_prices": true,
+    "publication_timestamp_column": false,
+    "historical_daily_head_error": "HTTP Error 404: Not Found",
+    "target_zip_member_naive_timestamp": "2023-01-14T09:31:02",
+    "zip_member_timestamp_has_timezone": false
+  },
+  {
+    "delivery_date": "2023-07-15",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20230701damlbmp_zone_csv.zip",
+    "columns": [
+      "Time Stamp",
+      "Name",
+      "PTID",
+      "LBMP ($/MWHr)",
+      "Marginal Cost Losses ($/MWHr)",
+      "Marginal Cost Congestion ($/MWHr)"
+    ],
+    "nyc_hourly_rows": 24,
+    "hour_18_rows": 1,
+    "nyc_timestamp_unique": true,
+    "numeric_prices": true,
+    "publication_timestamp_column": false,
+    "historical_daily_head_error": "HTTP Error 404: Not Found",
+    "target_zip_member_naive_timestamp": "2023-07-14T09:32:18",
+    "zip_member_timestamp_has_timezone": false
+  },
+  {
+    "delivery_date": "2024-03-10",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20240301damlbmp_zone_csv.zip",
+    "columns": [
+      "Time Stamp",
+      "Name",
+      "PTID",
+      "LBMP ($/MWHr)",
+      "Marginal Cost Losses ($/MWHr)",
+      "Marginal Cost Congestion ($/MWHr)"
+    ],
+    "nyc_hourly_rows": 23,
+    "hour_18_rows": 1,
+    "nyc_timestamp_unique": true,
+    "numeric_prices": true,
+    "publication_timestamp_column": false,
+    "historical_daily_head_error": "HTTP Error 404: Not Found",
+    "target_zip_member_naive_timestamp": "2024-03-09T09:31:02",
+    "zip_member_timestamp_has_timezone": false
+  },
+  {
+    "delivery_date": "2024-11-03",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20241101damlbmp_zone_csv.zip",
+    "columns": [
+      "Time Stamp",
+      "Name",
+      "PTID",
+      "LBMP ($/MWHr)",
+      "Marginal Cost Losses ($/MWHr)",
+      "Marginal Cost Congestion ($/MWHr)"
+    ],
+    "nyc_hourly_rows": 25,
+    "hour_18_rows": 1,
+    "nyc_timestamp_unique": false,
+    "numeric_prices": true,
+    "publication_timestamp_column": false,
+    "historical_daily_head_error": "HTTP Error 404: Not Found",
+    "target_zip_member_naive_timestamp": "2024-11-02T09:31:04",
+    "zip_member_timestamp_has_timezone": false
+  },
+  {
+    "delivery_date": "2025-01-15",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20250101damlbmp_zone_csv.zip",
+    "columns": [
+      "Time Stamp",
+      "Name",
+      "PTID",
+      "LBMP ($/MWHr)",
+      "Marginal Cost Losses ($/MWHr)",
+      "Marginal Cost Congestion ($/MWHr)"
+    ],
+    "nyc_hourly_rows": 24,
+    "hour_18_rows": 1,
+    "nyc_timestamp_unique": true,
+    "numeric_prices": true,
+    "publication_timestamp_column": false,
+    "historical_daily_head_error": "HTTP Error 404: Not Found",
+    "target_zip_member_naive_timestamp": "2025-01-14T09:34:02",
+    "zip_member_timestamp_has_timezone": false
+  },
+  {
+    "delivery_date": "2025-07-15",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20250701damlbmp_zone_csv.zip",
+    "columns": [
+      "Time Stamp",
+      "Name",
+      "PTID",
+      "LBMP ($/MWHr)",
+      "Marginal Cost Losses ($/MWHr)",
+      "Marginal Cost Congestion ($/MWHr)"
+    ],
+    "nyc_hourly_rows": 24,
+    "hour_18_rows": 1,
+    "nyc_timestamp_unique": true,
+    "numeric_prices": true,
+    "publication_timestamp_column": false,
+    "historical_daily_head_error": "HTTP Error 404: Not Found",
+    "target_zip_member_naive_timestamp": "2025-07-14T09:33:04",
+    "zip_member_timestamp_has_timezone": false
+  }
+]

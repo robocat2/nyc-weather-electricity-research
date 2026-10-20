@@ -1,0 +1,21 @@
+{
+  "older_inventory_dates": 1826,
+  "older_available_raw_hashes_verified": 1823,
+  "older_GRIB_samples_independently_verified": [
+    "2021-01-15",
+    "2021-07-15",
+    "2022-01-15",
+    "2022-07-15",
+    "2023-03-12",
+    "2023-07-15",
+    "2024-01-15",
+    "2024-11-03",
+    "2025-03-09",
+    "2025-06-24",
+    "2025-11-02",
+    "2025-12-31"
+  ],
+  "sample_dates_excluded_not_substituted": [],
+  "paired_intervals_independently_replayed": 24,
+  "full_browser_layout": "not inspected"
+}

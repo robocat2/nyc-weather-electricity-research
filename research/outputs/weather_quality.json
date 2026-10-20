@@ -1,0 +1,94 @@
+[
+  {
+    "file": "weather_2021.psv",
+    "reports": 13209,
+    "quality_codes": {
+      "5": 10312,
+      "1": 2890,
+      "A": 7
+    },
+    "report_types": {
+      "FM15": 8762,
+      "FM12": 2887,
+      "FM16": 1560
+    }
+  },
+  {
+    "file": "weather_2022.psv",
+    "reports": 13278,
+    "quality_codes": {
+      "5": 10291,
+      "1": 2977,
+      "A": 8,
+      "4": 1,
+      "2": 1
+    },
+    "report_types": {
+      "FM15": 8762,
+      "FM12": 2897,
+      "FM16": 1619
+    }
+  },
+  {
+    "file": "weather_2023.psv",
+    "reports": 13274,
+    "quality_codes": {
+      "5": 10387,
+      "1": 2877,
+      "blank": 7,
+      "A": 3
+    },
+    "report_types": {
+      "FM15": 8763,
+      "FM12": 2871,
+      "FM16": 1633
+    }
+  },
+  {
+    "file": "weather_2024.psv",
+    "reports": 13147,
+    "quality_codes": {
+      "5": 10046,
+      "1": 3097,
+      "A": 2,
+      "blank": 1,
+      "2": 1
+    },
+    "report_types": {
+      "FM15": 8781,
+      "FM12": 2879,
+      "FM16": 1486
+    }
+  },
+  {
+    "file": "weather_2025.psv",
+    "reports": 12861,
+    "quality_codes": {
+      "5": 6650,
+      "1": 6207,
+      "6": 2,
+      "7": 1,
+      "4": 1
+    },
+    "report_types": {
+      "FM15": 8652,
+      "FM12": 2857,
+      "FM16": 1352
+    }
+  },
+  {
+    "file": "weather_2026.psv",
+    "reports": 59277,
+    "quality_codes": {
+      "blank": 56227,
+      "1": 3049,
+      "4": 1
+    },
+    "report_types": {
+      "FM15": 7023,
+      "FM12": 1443,
+      "FM16": 764,
+      "FM94_1": 7
+    }
+  }
+]

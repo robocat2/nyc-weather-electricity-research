@@ -1,0 +1,14 @@
+{
+  "family": "revision",
+  "selected": "revision",
+  "test_days": 362,
+  "gross_total": 982.6200000000007,
+  "linear_total": 1020.9600000000005,
+  "always_load_total": 1384.9200000000003,
+  "best_date": "2025-06-24",
+  "best_payoff": 1768.5300000000002,
+  "rest_payoff": -785.9099999999995,
+  "positive_months": 3,
+  "exploratory": true,
+  "costs_or_fills_tested": false
+}

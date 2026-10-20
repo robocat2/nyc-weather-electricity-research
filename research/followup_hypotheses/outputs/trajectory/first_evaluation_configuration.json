@@ -1,0 +1,20 @@
+{
+  "family": "trajectory",
+  "selected": "trajectory1",
+  "recorded_utc": "2026-10-17T05:54:01.604018+00:00",
+  "specification_sha256": "3b02defee9cc9a7cf030e31672556bb42bcd303d16d4c52288eb40232b81747b",
+  "source_gate_sha256": "4fbd98d3575b67bc9fef5b0a5fbbbbe58a321cd67cd401aa5951b84582b64c30",
+  "code_sha256": {
+    "acquire_revisions.py": "f7f7f082c1b7746d481d744d5a30d225af6da04433c00de306962e4a8221310c",
+    "followup_model.py": "fc02945f63d72a2d0a3475955240262bb4afdc3262e7489412c7cba63836bc2a",
+    "prepare_followups.py": "59188719990f14d5a7f91c1972b3f755b3c067321569b67aa22b94a09ee05a02",
+    "run_followups.py": "f9c6d26e8086334514b17525027caae53c3ab9c58c9c3b119175bc9a2ad597c0"
+  },
+  "evaluation_exposure": "2025 and 2024 examined previously; exploratory follow-up",
+  "helpers_sha256": {
+    "spread_backtest/src/model.py": "c5be2fc400e7fad0e13b35dd92fa9dbecffab1d6a4d4f3858343da37c638c3b1",
+    "spread_backtest/src/evaluate.py": "c1bac4a33007cd8eab9b1f6b28eb09996c051a3b66eaac8b97bbb984a30d454e",
+    "price_research/src/prepare.py": "4a82fc04e7669d413af673f2dc2d5cd2f529169fc0a706653219f019aad2a4f2",
+    "price_research/src/acquire.py": "51dbeaf4e18287dcbf1ab608f226a22786b6f208d71432201d5180efd0c04037"
+  }
+}

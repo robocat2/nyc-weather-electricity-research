@@ -1,0 +1,11 @@
+{
+  "selected_weather_model": "spline",
+  "hot_forecast_threshold_c": 30.408328247070337,
+  "matched_2025_days": 362,
+  "matched_fitting_days": 1447,
+  "baseline_mae_mwh": 35.15811028663848,
+  "selected_mae_mwh": 29.332627300982686,
+  "selected_improvement_pct": 16.569385948680292,
+  "months_with_selected_improvement": 10,
+  "price_history_or_trading_tested": false
+}

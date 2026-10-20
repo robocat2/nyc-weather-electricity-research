@@ -1,0 +1,377 @@
+[
+  {
+    "file": "20250701OperMessages.csv",
+    "insert_time_local_string": "01-Jul-2025 11:21",
+    "message": "NYISO has corrected prices in HB 8 in the June 26, 2025 Real-Time Market.\r\nNYISO is releasing prices in HB 9 in the June 26, 2025 Real-Time Market."
+  },
+  {
+    "file": "20250701OperMessages.csv",
+    "insert_time_local_string": "01-Jul-2025 16:06",
+    "message": "Prices in the June 30, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 02, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250702OperMessages.csv",
+    "insert_time_local_string": "02-Jul-2025 16:44",
+    "message": "NYISO is reserving HB 15,16,17,18,19,20 in the July 01, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves.\r\nPrices in the July 03, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250703OperMessages.csv",
+    "insert_time_local_string": "03-Jul-2025 11:17",
+    "message": "Prices in the July 02, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250703OperMessages.csv",
+    "insert_time_local_string": "03-Jul-2025 16:40",
+    "message": "Prices in the July 02, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 04, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250704OperMessages.csv",
+    "insert_time_local_string": "04-Jul-2025 09:03",
+    "message": "Prices in the July 03, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250704OperMessages.csv",
+    "insert_time_local_string": "04-Jul-2025 12:22",
+    "message": "Prices in the July 03, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 05, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250704OperMessages.csv",
+    "insert_time_local_string": "04-Jul-2025 15:12",
+    "message": "Prices in the July 04, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250705OperMessages.csv",
+    "insert_time_local_string": "05-Jul-2025 12:49",
+    "message": "Prices in the July 04, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 06, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250705OperMessages.csv",
+    "insert_time_local_string": "05-Jul-2025 15:16",
+    "message": "Prices in the July 05, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250706OperMessages.csv",
+    "insert_time_local_string": "06-Jul-2025 12:47",
+    "message": "Prices in the July 05, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 07, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250707OperMessages.csv",
+    "insert_time_local_string": "07-Jul-2025 11:02",
+    "message": "Prices in the July 06, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250707OperMessages.csv",
+    "insert_time_local_string": "07-Jul-2025 16:28",
+    "message": "NYISO is reserving HB 17,18,19,20,21,22 in the July 06, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves.\r\nPrices in the July 08, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250707OperMessages.csv",
+    "insert_time_local_string": "07-Jul-2025 18:31",
+    "message": "Prices in the July 07, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250707OperMessages.csv",
+    "insert_time_local_string": "07-Jul-2025 19:02",
+    "message": "NYISO has corrected prices in HB 17,18 in the July 01, 2025 Real-Time Market.\r\nNYISO is releasing prices in HB 9,15,16,19,20 in the July 01, 2025 Real-Time Market."
+  },
+  {
+    "file": "20250708OperMessages.csv",
+    "insert_time_local_string": "08-Jul-2025 16:04",
+    "message": "Prices in the July 07, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 09, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250708OperMessages.csv",
+    "insert_time_local_string": "08-Jul-2025 16:27",
+    "message": "Prices in the July 08, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250709OperMessages.csv",
+    "insert_time_local_string": "09-Jul-2025 16:04",
+    "message": "Prices in the July 08, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 10, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250709OperMessages.csv",
+    "insert_time_local_string": "09-Jul-2025 16:57",
+    "message": "Prices in the July 09, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250710OperMessages.csv",
+    "insert_time_local_string": "10-Jul-2025 16:15",
+    "message": "Prices in the July 09, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 11, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250710OperMessages.csv",
+    "insert_time_local_string": "10-Jul-2025 16:27",
+    "message": "Prices in the July 10, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250712OperMessages.csv",
+    "insert_time_local_string": "12-Jul-2025 16:25",
+    "message": "NYISO is reserving HB 19,20,21 in the July 11, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves.\r\nPrices in the July 13, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250712OperMessages.csv",
+    "insert_time_local_string": "12-Jul-2025 21:43",
+    "message": "Prices in the July 12, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250713OperMessages.csv",
+    "insert_time_local_string": "13-Jul-2025 16:30",
+    "message": "Prices in the July 12, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 14, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250713OperMessages.csv",
+    "insert_time_local_string": "13-Jul-2025 18:13",
+    "message": "Prices in the July 13, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250714OperMessages.csv",
+    "insert_time_local_string": "14-Jul-2025 14:13",
+    "message": "Prices in the July 13, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 15, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250714OperMessages.csv",
+    "insert_time_local_string": "14-Jul-2025 17:04",
+    "message": "Prices in the July 14, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250715OperMessages.csv",
+    "insert_time_local_string": "15-Jul-2025 10:06",
+    "message": "A Day-Ahead Advisory has been given to SCR resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 15:00 and ending at 22:00."
+  },
+  {
+    "file": "20250715OperMessages.csv",
+    "insert_time_local_string": "15-Jul-2025 10:06",
+    "message": "A Day-Ahead Advisory has been given to EDRP resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 15:00 and ending at 22:00."
+  },
+  {
+    "file": "20250715OperMessages.csv",
+    "insert_time_local_string": "15-Jul-2025 15:31",
+    "message": "NYISO is reserving HB 23 in the July 14, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves.\r\nPrices in the July 16, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250716OperMessages.csv",
+    "insert_time_local_string": "16-Jul-2025 10:13",
+    "message": "A Day-Ahead Advisory has been given to SCR resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 15:00 and ending at 22:00."
+  },
+  {
+    "file": "20250716OperMessages.csv",
+    "insert_time_local_string": "16-Jul-2025 10:14",
+    "message": "A Day-Ahead Advisory has been given to EDRP resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 15:00 and ending at 22:00."
+  },
+  {
+    "file": "20250716OperMessages.csv",
+    "insert_time_local_string": "16-Jul-2025 16:06",
+    "message": "Prices in the July 15, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 17, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250716OperMessages.csv",
+    "insert_time_local_string": "16-Jul-2025 16:22",
+    "message": "Prices in the July 16, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250717OperMessages.csv",
+    "insert_time_local_string": "17-Jul-2025 15:18",
+    "message": "Prices in the July 16, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 18, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250717OperMessages.csv",
+    "insert_time_local_string": "17-Jul-2025 17:06",
+    "message": "Prices in the July 17, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250718OperMessages.csv",
+    "insert_time_local_string": "18-Jul-2025 15:32",
+    "message": "Prices in the July 17, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 19, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250718OperMessages.csv",
+    "insert_time_local_string": "18-Jul-2025 16:25",
+    "message": "Prices in the July 18, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250718OperMessages.csv",
+    "insert_time_local_string": "18-Jul-2025 18:31",
+    "message": "A Day-Ahead Advisory has been given to TDRP SCR resources in load pockets J8 starting at 15:00 and ending at 23:00."
+  },
+  {
+    "file": "20250718OperMessages.csv",
+    "insert_time_local_string": "18-Jul-2025 18:32",
+    "message": "A Day-Ahead Advisory has been given to TDRP EDRP resources in load pockets J8 starting at 15:00 and ending at 23:00."
+  },
+  {
+    "file": "20250719OperMessages.csv",
+    "insert_time_local_string": "19-Jul-2025 15:11",
+    "message": "Prices in the July 18, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 20, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250719OperMessages.csv",
+    "insert_time_local_string": "19-Jul-2025 15:14",
+    "message": "Prices in the July 19, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250720OperMessages.csv",
+    "insert_time_local_string": "20-Jul-2025 16:01",
+    "message": "Prices in the July 19, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 21, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250720OperMessages.csv",
+    "insert_time_local_string": "20-Jul-2025 16:14",
+    "message": "Prices in the July 20, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250721OperMessages.csv",
+    "insert_time_local_string": "21-Jul-2025 16:37",
+    "message": "Prices in the July 20, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 22, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250721OperMessages.csv",
+    "insert_time_local_string": "21-Jul-2025 16:47",
+    "message": "Prices in the July 21, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250722OperMessages.csv",
+    "insert_time_local_string": "22-Jul-2025 15:17",
+    "message": "Prices in the July 21, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 23, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250723OperMessages.csv",
+    "insert_time_local_string": "23-Jul-2025 16:28",
+    "message": "Prices in the July 22, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250723OperMessages.csv",
+    "insert_time_local_string": "23-Jul-2025 16:33",
+    "message": "Prices in the July 22, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250723OperMessages.csv",
+    "insert_time_local_string": "23-Jul-2025 16:35",
+    "message": "Prices in the July 22, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 24, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250723OperMessages.csv",
+    "insert_time_local_string": "23-Jul-2025 16:46",
+    "message": "Prices in the July 23, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250724OperMessages.csv",
+    "insert_time_local_string": "24-Jul-2025 11:07",
+    "message": "A Day-Ahead Advisory has been given to SCR resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 16:00 and ending at 22:00."
+  },
+  {
+    "file": "20250724OperMessages.csv",
+    "insert_time_local_string": "24-Jul-2025 11:07",
+    "message": "A Day-Ahead Advisory has been given to EDRP resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 16:00 and ending at 22:00."
+  },
+  {
+    "file": "20250724OperMessages.csv",
+    "insert_time_local_string": "24-Jul-2025 15:42",
+    "message": "Prices in the July 23, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 25, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250724OperMessages.csv",
+    "insert_time_local_string": "24-Jul-2025 16:18",
+    "message": "Prices in the July 24, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250725OperMessages.csv",
+    "insert_time_local_string": "25-Jul-2025 15:09",
+    "message": "Prices in the July 24, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 26, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250725OperMessages.csv",
+    "insert_time_local_string": "25-Jul-2025 18:45",
+    "message": "Prices in the July 25, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250726OperMessages.csv",
+    "insert_time_local_string": "26-Jul-2025 16:47",
+    "message": "NYISO is reserving HB 14,15,16,17,18,19,20,21,22 in the July 25, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves.\r\nPrices in the July 27, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250726OperMessages.csv",
+    "insert_time_local_string": "26-Jul-2025 17:51",
+    "message": "Prices in the July 26, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250727OperMessages.csv",
+    "insert_time_local_string": "27-Jul-2025 12:02",
+    "message": "A Day-Ahead Advisory has been given to SCR resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 15:00 and ending at 22:00."
+  },
+  {
+    "file": "20250727OperMessages.csv",
+    "insert_time_local_string": "27-Jul-2025 12:02",
+    "message": "A Day-Ahead Advisory has been given to EDRP resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 15:00 and ending at 22:00."
+  },
+  {
+    "file": "20250727OperMessages.csv",
+    "insert_time_local_string": "27-Jul-2025 14:32",
+    "message": "Prices in the July 26, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 28, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250727OperMessages.csv",
+    "insert_time_local_string": "27-Jul-2025 16:22",
+    "message": "Prices in the July 27, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250728OperMessages.csv",
+    "insert_time_local_string": "28-Jul-2025 11:12",
+    "message": "A Day-Ahead Advisory has been given to SCR resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 15:00 and ending at 22:00."
+  },
+  {
+    "file": "20250728OperMessages.csv",
+    "insert_time_local_string": "28-Jul-2025 11:12",
+    "message": "A Day-Ahead Advisory has been given to EDRP resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 15:00 and ending at 22:00."
+  },
+  {
+    "file": "20250728OperMessages.csv",
+    "insert_time_local_string": "28-Jul-2025 15:06",
+    "message": "Prices in the July 27, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the July 29, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250729OperMessages.csv",
+    "insert_time_local_string": "29-Jul-2025 11:12",
+    "message": "A Day-Ahead Advisory has been given to SCR resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 15:00 and ending at 22:00."
+  },
+  {
+    "file": "20250729OperMessages.csv",
+    "insert_time_local_string": "29-Jul-2025 11:12",
+    "message": "A Day-Ahead Advisory has been given to EDRP resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 15:00 and ending at 22:00."
+  },
+  {
+    "file": "20250729OperMessages.csv",
+    "insert_time_local_string": "29-Jul-2025 11:13",
+    "message": "Prices in the July 28, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250729OperMessages.csv",
+    "insert_time_local_string": "29-Jul-2025 16:40",
+    "message": "NYISO is reserving HB 15,16,21,22 in the July 28, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves.\r\nPrices in the July 30, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250729OperMessages.csv",
+    "insert_time_local_string": "29-Jul-2025 16:51",
+    "message": "Prices in the July 29, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250730OperMessages.csv",
+    "insert_time_local_string": "30-Jul-2025 16:17",
+    "message": "NYISO is reserving HB 17,18 in the July 29, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves.\r\nPrices in the July 31, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250730OperMessages.csv",
+    "insert_time_local_string": "30-Jul-2025 16:51",
+    "message": "Prices in the July 30, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250731OperMessages.csv",
+    "insert_time_local_string": "31-Jul-2025 16:27",
+    "message": "Prices in the July 30, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the August 01, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250731OperMessages.csv",
+    "insert_time_local_string": "31-Jul-2025 17:46",
+    "message": "Prices in the July 31, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  }
+]

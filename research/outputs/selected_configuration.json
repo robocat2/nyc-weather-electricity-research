@@ -1,0 +1,29 @@
+{
+  "written_utc": "2026-10-17T01:22:12.515367+00:00",
+  "training_years": [
+    2021,
+    2022,
+    2023
+  ],
+  "validation_year": 2024,
+  "final_evaluation_year": 2025,
+  "selected_spline_knots": 3,
+  "hot_threshold_c_from_2021_2023": 28.3,
+  "refit_years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "selection_metric": "2024 MAE MW",
+  "specification_sha256": "4951fa0cc376ae66da6a8e2a283a9b2961d598b5f83525c4e6e47e75d0337463",
+  "source_manifest_sha256": "4e1179a0203020e5ff206baca474ace1f6c25db4ad150419b7c6ede4e67aa298",
+  "code_sha256": {
+    "acquire.py": "f4bbfd1c2b12a2e76d3d5a2d8148dddda6be5548b5ad3cdc4177d88fb48a37df",
+    "evaluate.py": "c8eca6a14e97c921d41df4829703aa832ded1b5cba68ff48e4237aec72cf4313",
+    "features.py": "f58d53106925761a1465757a3061614f92a11ba517c4661ac1c998e24c926c7f",
+    "models.py": "bbe4eff0ae8f05f0738057a1669ce6700f4d4ab60daeaca79adf1c3b0e008f21",
+    "prepare.py": "a20e1ead80add58ea4aab6ca453532cf2de7dfe5e43d407ed2d4187c3cb81e5b",
+    "run.py": "85de43d7f81cb320bf52bdf2388184c3a5387f78d610feb9d7d121f94844df9d"
+  }
+}

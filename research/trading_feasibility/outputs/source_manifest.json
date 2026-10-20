@@ -1,0 +1,1159 @@
+[
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20210401rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:17 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Thu, 06 May 2021 14:33:25 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "124188",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:17.487557+00:00",
+    "file": "rt_202104.zip",
+    "bytes": 124188,
+    "sha256": "3ce54546acb4ce1013ea3f08e761aa11082a466529b6f5c586e5bbe9093be8b1"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20210101rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:17 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Mon, 01 Feb 2021 04:57:23 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "126688",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:17.523789+00:00",
+    "file": "rt_202101.zip",
+    "bytes": 126688,
+    "sha256": "adb48e8af5cd6db0db8472fd0616a173fe1ad88d6709388948195229e914810c"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20210501rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:17 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Tue, 01 Jun 2021 03:57:25 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "126719",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:17.526767+00:00",
+    "file": "rt_202105.zip",
+    "bytes": 126719,
+    "sha256": "5626fe74286b24893fc9cbb95e42786c46e9d3ebbc9634d1c1755d390db2a321"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20210601rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:17 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Thu, 01 Jul 2021 03:57:24 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "120800",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:17.537830+00:00",
+    "file": "rt_202106.zip",
+    "bytes": 120800,
+    "sha256": "fa030bd15fbcd2d488a246174f7595b41af0fa9e9b79dd764f450de8823779b7"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20210201rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:17 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Mon, 01 Mar 2021 04:57:26 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "117759",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:17.538037+00:00",
+    "file": "rt_202102.zip",
+    "bytes": 117759,
+    "sha256": "cc2819528b5b44825feb7e6a1fe807ab72a5c0176c0a1ef6f09607fc4b7eae4f"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20210301rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:17 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Thu, 01 Apr 2021 03:57:27 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "126065",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:17.642917+00:00",
+    "file": "rt_202103.zip",
+    "bytes": 126065,
+    "sha256": "6ca35d71fb26f84611fb069af771903024eadb0d9b8f292b6d2f6c624c9e4939"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20210701rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:17 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Sun, 01 Aug 2021 03:57:21 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "127247",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:18.213684+00:00",
+    "file": "rt_202107.zip",
+    "bytes": 127247,
+    "sha256": "eeaadca99a090be3e108a3335a64a817e8298e735c664d9b15543f435ab89f67"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20210901rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:17 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Fri, 01 Oct 2021 03:57:24 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "125054",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:18.288128+00:00",
+    "file": "rt_202109.zip",
+    "bytes": 125054,
+    "sha256": "85300f1fc5ecb12357459f266face956fa44968aaa38896ac3f0a0676120f769"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20211101rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:17 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Wed, 01 Dec 2021 04:57:23 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "123225",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:18.293203+00:00",
+    "file": "rt_202111.zip",
+    "bytes": 123225,
+    "sha256": "4993a8ed436469c0ca98a6b8fe323c21643b8ace03590f071215b3995108a3d4"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20211201rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:18 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Sat, 01 Jan 2022 04:57:21 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "122545",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:18.402108+00:00",
+    "file": "rt_202112.zip",
+    "bytes": 122545,
+    "sha256": "c13c98ceb6b70c7f3e35f64911cf9b2ca66f936c459c972838df75521b04808e"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20211001rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:17 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Mon, 01 Nov 2021 03:57:24 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "127584",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:18.406793+00:00",
+    "file": "rt_202110.zip",
+    "bytes": 127584,
+    "sha256": "bd971007d1daa46ea4c2d3b90abd9402543beb8a1c1a288c74f2591061542a8b"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20210801rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:17 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Wed, 01 Sep 2021 03:57:24 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "122980",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:18.614351+00:00",
+    "file": "rt_202108.zip",
+    "bytes": 122980,
+    "sha256": "8b9bcc4c9d9a138d97532b152d7f17b61ac91ddb8acbc4ecdc70558b9d5a0495"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20220201rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:18 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Tue, 01 Mar 2022 04:57:23 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "119571",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:18.977440+00:00",
+    "file": "rt_202202.zip",
+    "bytes": 119571,
+    "sha256": "fa377ce25104a200b533eecdad27f89824ead53370a314378a1c30263eef197c"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20220301rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:18 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Fri, 01 Apr 2022 03:57:23 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "132018",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:19.076707+00:00",
+    "file": "rt_202203.zip",
+    "bytes": 132018,
+    "sha256": "86a8b995c00cf7062b5cf5395a6363f651a7afdbd59c9469bbe4e1701c0a3d57"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20220501rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:18 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Wed, 01 Jun 2022 03:57:20 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "137092",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:19.139117+00:00",
+    "file": "rt_202205.zip",
+    "bytes": 137092,
+    "sha256": "f6a8e4212385226b4eb66fbf989c75aa2f4699a9c56e74b06d17b8e86676a3eb"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20220401rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:18 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Sun, 01 May 2022 03:57:18 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "131156",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:19.251012+00:00",
+    "file": "rt_202204.zip",
+    "bytes": 131156,
+    "sha256": "84dd7bd6d6742464ddd28104410ead6b5937dba77489f3da9f7940b7959f0d88"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20220101rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:18 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Tue, 01 Feb 2022 04:57:20 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "136892",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:19.445926+00:00",
+    "file": "rt_202201.zip",
+    "bytes": 136892,
+    "sha256": "4a07f9c3094f89402b1036736e9d466d9ad10b992e4356f1a9a7e1d395115fc6"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20220601rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:18 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Fri, 01 Jul 2022 03:57:20 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "125819",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:19.485779+00:00",
+    "file": "rt_202206.zip",
+    "bytes": 125819,
+    "sha256": "cf60f85c6b0f4b1cda07af136c1aecf3e35ae05104eff2ffd36b9effe0cc0f16"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20220701rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:19 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Wed, 03 Aug 2022 20:57:29 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "131510",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:19.719124+00:00",
+    "file": "rt_202207.zip",
+    "bytes": 131510,
+    "sha256": "14b6bd41f7f5010fd1bd7742b0ead138b6dd40deab364805426b9fb620bea30a"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20220801rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:19 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Fri, 02 Sep 2022 20:09:20 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "128474",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:19.802477+00:00",
+    "file": "rt_202208.zip",
+    "bytes": 128474,
+    "sha256": "7d9b5270edb70ac9d9bd7cda63407b1050cdfb9acbe391df74cee9419cbd0df7"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20220901rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:19 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Sat, 01 Oct 2022 03:57:18 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "124059",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:19.861379+00:00",
+    "file": "rt_202209.zip",
+    "bytes": 124059,
+    "sha256": "317695f896fc0bd3334e144cc626d59e7c3008cd734adcdbefc01b07cb755156"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20221001rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:19 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Tue, 01 Nov 2022 03:57:16 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "125084",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:19.971914+00:00",
+    "file": "rt_202210.zip",
+    "bytes": 125084,
+    "sha256": "8c698a8530f408e0ef0579a283935b04e6e044360362f056de13a803ff172d78"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20221201rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:19 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Sun, 01 Jan 2023 04:57:17 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "131491",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:20.227424+00:00",
+    "file": "rt_202212.zip",
+    "bytes": 131491,
+    "sha256": "25c1615e7f0a9cc28eedc4c49cd62595e8869027e93ff0cb1fb789cebb54d966"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20230101rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:20 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Wed, 01 Feb 2023 04:57:16 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "123287",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:20.356704+00:00",
+    "file": "rt_202301.zip",
+    "bytes": 123287,
+    "sha256": "4e49900909119e4b84e8130be70df794a0fd30e7f529be3749f0e45be2fe6419"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20230301rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:20 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Sat, 01 Apr 2023 03:57:17 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "126323",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:20.481143+00:00",
+    "file": "rt_202303.zip",
+    "bytes": 126323,
+    "sha256": "d7defda2dfe0eb2f42f67c54216bbb920111273fb88c85e33ce5b60c3fe46358"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20221101rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:19 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Thu, 01 Dec 2022 04:57:16 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "128904",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:20.541572+00:00",
+    "file": "rt_202211.zip",
+    "bytes": 128904,
+    "sha256": "23a241aa651e1a1a06fbb4f901f9dbd0dfe810f115a90d052412c64ec04ad457"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20230401rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:20 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Mon, 01 May 2023 03:57:04 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "115701",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:20.596370+00:00",
+    "file": "rt_202304.zip",
+    "bytes": 115701,
+    "sha256": "004484cfe700039f8f02720ac256123ca391b0c64283b0a34bb91af1b551539e"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20230201rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:20 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Wed, 01 Mar 2023 04:57:17 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "117615",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:20.750972+00:00",
+    "file": "rt_202302.zip",
+    "bytes": 117615,
+    "sha256": "e8cb63633b792c9440d21a0ef2893abbb9881b6d497260847ef1362490733710"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20230501rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:20 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Thu, 01 Jun 2023 03:57:07 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "115971",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:20.853328+00:00",
+    "file": "rt_202305.zip",
+    "bytes": 115971,
+    "sha256": "254071545943a06f0ad20b54ba633836246fa7a07e1747d61f17f289dbbedef1"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20230601rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:20 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Sat, 01 Jul 2023 03:57:05 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "105437",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:20.886830+00:00",
+    "file": "rt_202306.zip",
+    "bytes": 105437,
+    "sha256": "059a8f3c397585a04c18f970cf4da9fee7378fb6fa04fd3aff83345a401f598c"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20230701rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:20 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Tue, 01 Aug 2023 03:57:07 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "115299",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:21.126916+00:00",
+    "file": "rt_202307.zip",
+    "bytes": 115299,
+    "sha256": "c0c3a43aa484660d975195fe278351a1c59f60dd425f5c1557e97e39740017f3"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20230801rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:20 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Fri, 01 Sep 2023 03:57:05 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "113291",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:21.166602+00:00",
+    "file": "rt_202308.zip",
+    "bytes": 113291,
+    "sha256": "be480a638494a2c93dae40f204b24099ed1475ef01a259f669bf2803f8d14e2b"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20230901rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:20 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Sun, 01 Oct 2023 03:57:04 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "111014",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:21.226051+00:00",
+    "file": "rt_202309.zip",
+    "bytes": 111014,
+    "sha256": "1d606e70dbca11f48048c9d008f69e939dcf2a5b5089a6ead497e330ed477296"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20231001rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:21 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Wed, 01 Nov 2023 03:57:06 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "112034",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:21.386402+00:00",
+    "file": "rt_202310.zip",
+    "bytes": 112034,
+    "sha256": "4ec4a9cbd9d4d01e0fa91e8a1c5b37abd706005e02d1001b4fc13c2552ff0d9d"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20231201rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:21 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Wed, 03 Jan 2024 15:55:08 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "111749",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:21.493545+00:00",
+    "file": "rt_202312.zip",
+    "bytes": 111749,
+    "sha256": "a40482c9fa8c9a6b316e5ea2ac8d95a97d9cc1c9a14c8c02816bad22dbaa5ef1"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20231101rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:21 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Mon, 04 Dec 2023 18:08:06 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "114071",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:21.592662+00:00",
+    "file": "rt_202311.zip",
+    "bytes": 114071,
+    "sha256": "f6f219702cd3b852084b5d7266268d7fd026b691d1538415f0b2578c77293af2"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20240201rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:21 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Fri, 01 Mar 2024 04:57:06 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "105534",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:21.696321+00:00",
+    "file": "rt_202402.zip",
+    "bytes": 105534,
+    "sha256": "788fc7e17e72f8c0785e4594f87874fc4b79cf05737e6a2077c3442d45f8bf7f"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20240101rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:21 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Thu, 01 Feb 2024 04:57:05 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "121517",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:21.743578+00:00",
+    "file": "rt_202401.zip",
+    "bytes": 121517,
+    "sha256": "91a3eae80a1643b915caaf76102585429ac5670ed7c4f3a668e923109cd90569"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20240301rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:21 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Mon, 01 Apr 2024 03:57:04 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "108310",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:21.762002+00:00",
+    "file": "rt_202403.zip",
+    "bytes": 108310,
+    "sha256": "0bccbc8f2bb4095f351e4454b630a2fd99650d17aee83e938ef4d54eb5830aa0"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20240401rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:21 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Wed, 01 May 2024 03:57:06 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "103091",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:21.921348+00:00",
+    "file": "rt_202404.zip",
+    "bytes": 103091,
+    "sha256": "8e1630cc1f889155e08c251980a8b194b100d9fe8cbc08e8affa5b9ceb6cc68a"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20240501rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:21 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Sat, 01 Jun 2024 03:57:09 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "109873",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:22.118548+00:00",
+    "file": "rt_202405.zip",
+    "bytes": 109873,
+    "sha256": "bd31a2027442ac1b8c4da5b51a2f2df82391a2ac693dd30acc0d43d57c1e9a38"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20240601rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:21 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Mon, 01 Jul 2024 03:57:06 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "110720",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:22.228856+00:00",
+    "file": "rt_202406.zip",
+    "bytes": 110720,
+    "sha256": "36b5190f8a1b041d59194b248cb6191a55edf53d9662500ea9b8ae5fc5578a65"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20240901rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:22 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Tue, 01 Oct 2024 03:57:06 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "106558",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:22.306097+00:00",
+    "file": "rt_202409.zip",
+    "bytes": 106558,
+    "sha256": "898b9a815cb4c42f232a7aefa5fd0703e54714089c1e535ca7d73b732df13d46"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20240701rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:22 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Thu, 01 Aug 2024 03:57:05 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "116564",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:22.317930+00:00",
+    "file": "rt_202407.zip",
+    "bytes": 116564,
+    "sha256": "76ce1f8e22dc52ccccb857d76d6c7a9feceb34cf6bbd7cea3207389a1e7a03c5"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20240801rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:22 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Sun, 01 Sep 2024 03:57:06 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "111119",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:22.371859+00:00",
+    "file": "rt_202408.zip",
+    "bytes": 111119,
+    "sha256": "73c6ef984a4033e29ee75b3669f2b96449ee366cc5f6ccc3fd670a90eabb6ecf"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20241001rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:22 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Fri, 01 Nov 2024 03:57:07 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "110767",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:22.462545+00:00",
+    "file": "rt_202410.zip",
+    "bytes": 110767,
+    "sha256": "f0d95fc654f97f0f5136257b2faf95b60e9088f50e83dbb44104d3604f76ea5a"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20241101rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:22 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Sun, 01 Dec 2024 04:57:06 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "110142",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:22.642818+00:00",
+    "file": "rt_202411.zip",
+    "bytes": 110142,
+    "sha256": "c40296fa13f7e73fcc2ee460310cec1906fa17082932af35e8568961078dc095"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20241201rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:22 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Wed, 01 Jan 2025 04:57:06 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "123620",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:22.774593+00:00",
+    "file": "rt_202412.zip",
+    "bytes": 123620,
+    "sha256": "f6d832e95510c84c23e5d9e142f3d16b5dcd49080d34fecf4509eb7350875cc8"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20250201rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:22 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Sat, 01 Mar 2025 04:57:07 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "116878",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:22.822794+00:00",
+    "file": "rt_202502.zip",
+    "bytes": 116878,
+    "sha256": "a6415364271e5da90f812a857c71cf58df3b4fb535f04e790fcf0444cd5dcd08"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20250101rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:22 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Sat, 01 Feb 2025 04:57:07 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "136117",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:22.932367+00:00",
+    "file": "rt_202501.zip",
+    "bytes": 136117,
+    "sha256": "a0c492ea405efbb618449db09561e8826b7ebf5acbc58d3437607888a1fdb2a8"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20250301rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:22 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Tue, 01 Apr 2025 03:57:07 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "119067",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:22.976066+00:00",
+    "file": "rt_202503.zip",
+    "bytes": 119067,
+    "sha256": "b8210104ff7bd643453c3761fb2ea612c622aeada309fda7212d38173c529af3"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20250401rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:22 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Thu, 01 May 2025 03:57:09 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "111280",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:23.072650+00:00",
+    "file": "rt_202504.zip",
+    "bytes": 111280,
+    "sha256": "a646713d4dbed33dbc641d83eaa17b1588eed5941a1c8f8dcc26f2a49a33d7de"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20250501rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:22 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Thu, 17 Jul 2025 18:24:01 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "117453",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:23.263288+00:00",
+    "file": "rt_202505.zip",
+    "bytes": 117453,
+    "sha256": "458f027adf6ccddd6ba3737d6138eec1fff360db76000d907a84c7e84a8fb464"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20250801rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:23 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Mon, 01 Sep 2025 03:57:08 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "110728",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:23.441208+00:00",
+    "file": "rt_202508.zip",
+    "bytes": 110728,
+    "sha256": "fcfeb75d46e3f44bc98b2ba5b95c27019fcb2e3de1fa1f6bb7d482dd40bf6c91"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20250701rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:23 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Fri, 01 Aug 2025 03:57:07 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "118071",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:23.472784+00:00",
+    "file": "rt_202507.zip",
+    "bytes": 118071,
+    "sha256": "9380e3f4a488eddeeb66d5144d0026418d0eabceba64688753c6588e27eaf783"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20250901rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:23 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Fri, 03 Oct 2025 14:18:24 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "112580",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:23.502269+00:00",
+    "file": "rt_202509.zip",
+    "bytes": 112580,
+    "sha256": "97b8a75cc6ec08f3255eba510f21784195baf4dbdce3b0bf57408ce1b4637141"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20250601rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:23 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Fri, 18 Jul 2025 19:51:03 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "111495",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:23.582888+00:00",
+    "file": "rt_202506.zip",
+    "bytes": 111495,
+    "sha256": "ec8bdddd4e27bd721d394ac7adf95bc95c73fe8fa4db9bbe8de9dfeeacaa2959"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20251001rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:23 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Sat, 01 Nov 2025 03:57:07 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "115386",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:23.601554+00:00",
+    "file": "rt_202510.zip",
+    "bytes": 115386,
+    "sha256": "3292259b11a62a13bc4243ae72ee2b08122ffedf3c8611432fa16d0891b7d6d1"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20251101rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:23 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Mon, 01 Dec 2025 04:57:04 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "112705",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:23.793789+00:00",
+    "file": "rt_202511.zip",
+    "bytes": 112705,
+    "sha256": "126b127d37da87a81312750dca2c8eb8815ea844383006f9abccee48f4dcdec9"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/csv/rtlbmp/20251201rtlbmp_zone_csv.zip",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:23 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Thu, 01 Jan 2026 04:57:06 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "124869",
+      "Connection": "close",
+      "Content-Type": "application/zip"
+    },
+    "retrieved_utc": "2026-10-17T04:32:24.026791+00:00",
+    "file": "rt_202512.zip",
+    "bytes": 124869,
+    "sha256": "53e3dde7e2cfce54d6363b180e620c408be9016ec423d69ba030d73771daecb0"
+  },
+  {
+    "url": "https://mis.nyiso.com/public/P-4Alist.htm",
+    "http_status": 200,
+    "headers": {
+      "Date": "Sat, 17 Oct 2026 04:32:23 GMT",
+      "Server": "Apache",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Last-Modified": "Sat, 17 Oct 2026 04:07:07 GMT",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "153364",
+      "Vary": "Accept-Encoding",
+      "Connection": "close",
+      "Content-Type": "text/html"
+    },
+    "retrieved_utc": "2026-10-17T04:32:24.207048+00:00",
+    "file": "rt_index.html",
+    "bytes": 153364,
+    "sha256": "04a41caad7549476d7a18123ef3ba2d3afb7c1a99889bedb4f1bd7176c35dd95"
+  },
+  {
+    "url": "https://www.nyiso.com/documents/20142/3035389/Virtual-Trading-Settlements.pdf/2e4e8a27-b4b1-a0e1-b376-0cab32b93180",
+    "http_status": 200,
+    "headers": {
+      "Server": "CloudFront",
+      "Content-Type": "application/pdf",
+      "Content-Length": "319490",
+      "Connection": "close",
+      "Date": "Sat, 17 Oct 2026 04:32:24 GMT",
+      "Content-Disposition": "inline; filename=\"Virtual-Trading-Settlements.pdf\"",
+      "Set-Cookie": "JSESSIONID=21209196A99FD2D3586A40AA4A0EFA32; Path=/; Secure; HttpOnly",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "sameorigin",
+      "Strict-Transport-Security": "max-age=31536000; includeSubdomains;",
+      "Last-Modified": "Thu, 27 Mar 2025 21:26:00 GMT",
+      "Cache-Control": "",
+      "Via": "1.1 e0cb1cd6b97b582bff272a8052d444d2.cloudfront.net (CloudFront)",
+      "Alt-Svc": "h3=\":443\"; ma=86400",
+      "Content-Security-Policy": "default-src 'self' http://dss.nyiso.com http://dss.staging.nyiso.com https://*.hrsmart.com https://nyisoviewer.etariff.biz https://nyiso.wufoo.com https://www.youtube.com https://*.twitter.com https://*.twimg.com https://www.buzzsprout.com https://boards.greenhouse.io https://service.force.com; connect-src 'self' https://*.google-analytics.com https://*.googletagmanager.com https://*.earch-wcm.com wss://*.earch-wcm.com https://*.nyiso.com wss://*.nyiso.com https://*.hrsmart.com https://cdn.linkedin.oribi.io https://nyiso.my.salesforce-sites.com https://maps.googleapis.com; img-src 'self' https://img.youtube.com https://*.hrsmart.com https://*.google-analytics.com https://*.googletagmanager.com https://*.twitter.com https://*.twimg.com data: https://*.googleapis.com https://maps.gstatic.com https://px.ads.linkedin.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.googletagmanager.com https://maps.googleapis.com https://*.hrsmart.com https://*.google-analytics.com https://secure.wufoo.com https://newiso.wofoo.com https://js-agent.newrelic.com https://*.twitter.com https://*.twimg.com https://www.buzzsprout.com https://snap.licdn.com https://boards.greenhouse.io https://www.youtube.com https://static.lightning.force.com https://*.salesforceliveagent.com https://service.force.com https://nyiso.my.salesforce.com https://nyiso.my.salesforce-sites.com; style-src 'self' 'unsafe-inline' https://*.hrsmart.com https://fonts.googleapis.com/ https://*.twitter.com https://*.twimg.com https://service.force.com https://nyiso.my.salesforce-sites.com; font-src 'self' https://www.sfdcstatic.com https://fonts.gstatic.com https://*.hrsmart.com https://*.twitter.com https://*.twimg.com data:; base-uri 'self'; form-action 'self' https://thenyiso.okta.com http://dss.nyiso.com http://dss.staging.nyiso.com https://*.hrsmart.com https://*.twitter.com https://*.twimg.com; frame-ancestors 'self' file://* http://localhost http://204.152.46.133 http://204.152.47.133 http://*.nyiso.com https://204.152.46.133 https://204.152.47.133 https://*.nyiso.com;",
+      "X-XSS-Protection": "1; mode=block",
+      "X-Cache": "Miss from cloudfront",
+      "X-Amz-Cf-Pop": "LAX54-P11",
+      "X-Amz-Cf-Id": "yY5kBNWDYHbgy6R062IFBQQJBzBGxPFmcANPiGGqGR6cJESTuM6UTw=="
+    },
+    "retrieved_utc": "2026-10-17T04:32:24.298606+00:00",
+    "file": "virtual_settlements.pdf",
+    "bytes": 319490,
+    "sha256": "7a244a3e452cbe4c7556537c3c743f100233b5a295b76a6c243e580dd55c7b65"
+  },
+  {
+    "url": "https://www.nyiso.com/documents/20142/2923231/acctbillmnl.pdf",
+    "http_status": 200,
+    "headers": {
+      "Server": "CloudFront",
+      "Content-Type": "application/pdf",
+      "Content-Length": "4058960",
+      "Connection": "close",
+      "Date": "Sat, 17 Oct 2026 04:32:24 GMT",
+      "Content-Disposition": "inline; filename=\"acctbillmnl.pdf\"",
+      "Set-Cookie": "JSESSIONID=2A74AA7F9B98CCCBAB0F541C99D50B32; Path=/; Secure; HttpOnly",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "sameorigin",
+      "Strict-Transport-Security": "max-age=31536000; includeSubdomains;",
+      "Last-Modified": "Wed, 01 Jul 2026 17:59:54 GMT",
+      "Cache-Control": "",
+      "Via": "1.1 d3a1bfa8dafda0830453dedfc8a076da.cloudfront.net (CloudFront)",
+      "Alt-Svc": "h3=\":443\"; ma=86400",
+      "Content-Security-Policy": "default-src 'self' http://dss.nyiso.com http://dss.staging.nyiso.com https://*.hrsmart.com https://nyisoviewer.etariff.biz https://nyiso.wufoo.com https://www.youtube.com https://*.twitter.com https://*.twimg.com https://www.buzzsprout.com https://boards.greenhouse.io https://service.force.com; connect-src 'self' https://*.google-analytics.com https://*.googletagmanager.com https://*.earch-wcm.com wss://*.earch-wcm.com https://*.nyiso.com wss://*.nyiso.com https://*.hrsmart.com https://cdn.linkedin.oribi.io https://nyiso.my.salesforce-sites.com https://maps.googleapis.com; img-src 'self' https://img.youtube.com https://*.hrsmart.com https://*.google-analytics.com https://*.googletagmanager.com https://*.twitter.com https://*.twimg.com data: https://*.googleapis.com https://maps.gstatic.com https://px.ads.linkedin.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.googletagmanager.com https://maps.googleapis.com https://*.hrsmart.com https://*.google-analytics.com https://secure.wufoo.com https://newiso.wofoo.com https://js-agent.newrelic.com https://*.twitter.com https://*.twimg.com https://www.buzzsprout.com https://snap.licdn.com https://boards.greenhouse.io https://www.youtube.com https://static.lightning.force.com https://*.salesforceliveagent.com https://service.force.com https://nyiso.my.salesforce.com https://nyiso.my.salesforce-sites.com; style-src 'self' 'unsafe-inline' https://*.hrsmart.com https://fonts.googleapis.com/ https://*.twitter.com https://*.twimg.com https://service.force.com https://nyiso.my.salesforce-sites.com; font-src 'self' https://www.sfdcstatic.com https://fonts.gstatic.com https://*.hrsmart.com https://*.twitter.com https://*.twimg.com data:; base-uri 'self'; form-action 'self' https://thenyiso.okta.com http://dss.nyiso.com http://dss.staging.nyiso.com https://*.hrsmart.com https://*.twitter.com https://*.twimg.com; frame-ancestors 'self' file://* http://localhost http://204.152.46.133 http://204.152.47.133 http://*.nyiso.com https://204.152.46.133 https://204.152.47.133 https://*.nyiso.com;",
+      "X-XSS-Protection": "1; mode=block",
+      "X-Cache": "Miss from cloudfront",
+      "X-Amz-Cf-Pop": "LAX54-P11",
+      "X-Amz-Cf-Id": "GO8XfDimguqOEWeVezfb2wHqu4rDx4ZHaBBcSvpfKXoFXIyWl7h_FQ=="
+    },
+    "retrieved_utc": "2026-10-17T04:32:24.522681+00:00",
+    "file": "accounting_billing.pdf",
+    "bytes": 4058960,
+    "sha256": "959117d17071c774fa14f468818df1db7c314883ba9dd1764e21e96f971b1689"
+  }
+]

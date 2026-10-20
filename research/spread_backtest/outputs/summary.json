@@ -1,0 +1,15 @@
+{
+  "selected_weather_strategy": "linear",
+  "evaluation_days": 362,
+  "gross_total_dollars": 1020.9600000000005,
+  "gross_mean_daily_dollars": 2.8203314917127087,
+  "calendar_gross_total_dollars": 321.9800000000005,
+  "incremental_mean_vs_calendar": 1.9308839779005529,
+  "training_mean_spread_mwh": 1.2811748445058744,
+  "training_mean_side": 1,
+  "disagreement_days_vs_calendar": 32,
+  "top_ten_payoff_dollars": 4288.91,
+  "top_ten_share_of_net_total": 4.200859974925558,
+  "costs_or_execution_validated": false,
+  "retrospective_exposed_2025": true
+}

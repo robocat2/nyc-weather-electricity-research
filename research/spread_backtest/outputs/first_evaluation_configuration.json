@@ -1,0 +1,31 @@
+{
+  "selected_weather_strategy": "linear",
+  "selection": "maximum 2024 mean gross payoff under fixed sign rule; tie linear",
+  "recorded_utc": "2026-10-17T04:38:07.199130+00:00",
+  "training_years": [
+    2021,
+    2022,
+    2023
+  ],
+  "validation_year": 2024,
+  "refit_years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "evaluation_year": 2025,
+  "position_mwh": 1,
+  "threshold": 0,
+  "specification_sha256": "ae755b476bb96496a8b604ad2ba636cbce56e257a80fbffa9e47ccd9f3225663",
+  "eligible_data_sha256": "0b0bdc09da91b7f0c3675afb86961c941620e2d9df96ce3abf77f4179ad91198",
+  "source_snapshot_sha256": "8978bba87e1b8f4aa1540c87a652e7ef56932144ec3c5cf2beb198f64197e244",
+  "code_sha256": {
+    "evaluate.py": "c1bac4a33007cd8eab9b1f6b28eb09996c051a3b66eaac8b97bbb984a30d454e",
+    "model.py": "c5be2fc400e7fad0e13b35dd92fa9dbecffab1d6a4d4f3858343da37c638c3b1",
+    "run.py": "a13c288390dca27e2258d208ecc1400cf42ca43819d3d6a26cc60780deab7079"
+  },
+  "exposure_disclosure": "2025 examined in earlier demand and day-ahead-price studies; retrospective evaluation, not blind or prospective",
+  "fees_uplift_slippage_included": false,
+  "clearing": "assumed one MWh cleared per active signal"
+}

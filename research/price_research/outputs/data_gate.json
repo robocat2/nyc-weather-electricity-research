@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "expected_days": 1826,
+  "usable_days": 1809,
+  "excluded_days": 17,
+  "minimum_month_coverage": 0.9032258064516129,
+  "minimum_year_coverage": 0.9835616438356164,
+  "raw_forecast_bytes": 2233392864
+}

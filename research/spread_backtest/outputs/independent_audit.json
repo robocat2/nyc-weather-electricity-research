@@ -1,0 +1,11 @@
+{
+  "da_raw_days": 1826,
+  "rt_raw_days": 1826,
+  "eligible_raw_label_and_timing_matches": 1809,
+  "independent_OLS_fits": 6,
+  "maximum_prediction_difference": 8.387956995647983e-12,
+  "all_strategy_period_totals_and_drawdowns": 119,
+  "spread_and_price_frozen_code_and_protocol": "unchanged",
+  "html_links_anchors_and_figures": "passed",
+  "browser_layout": "not verified; chart PNGs reviewed separately"
+}

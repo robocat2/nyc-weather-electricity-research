@@ -1,0 +1,10 @@
+{
+  "family": "revision",
+  "passed": true,
+  "eligible": 1809,
+  "excluded": 17,
+  "original_data_sha256": "c43cdb048b89672c986a00aab1657691b3421d85dc923493cfe3a44877f85c30",
+  "spread_inventory_sha256": "753e1150386a0b57393a1daab8890f352e8082242328eeb3078d5a46ca0768e1",
+  "older_inventory_sha256": "b47f4671f9e9912643798acfbac9fa6a4f64d3886080837af11e47d2fb490136",
+  "eligible_sha256": "f3414f4e7d0f36e9c95af05f410ebc49b3061776893557a5056a7139296fdb00"
+}

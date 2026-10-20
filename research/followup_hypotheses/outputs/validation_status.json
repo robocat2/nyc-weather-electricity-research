@@ -1,0 +1,14 @@
+{
+  "status": "Complete fixed exploratory comparisons",
+  "tests_passed": 9,
+  "independent_model_refits": 14,
+  "independent_metric_rows": 195,
+  "independent_paired_intervals": 24,
+  "older_forecasts_available": 1823,
+  "older_forecasts_excluded": 3,
+  "PNG_figures_visually_inspected": 4,
+  "HTML_embedded_figures": 4,
+  "full_browser_layout": "not inspected",
+  "original_portfolio_zip": "SHA-256 unchanged",
+  "conclusion": "Neither follow-up establishes reliable incremental gross alpha; forecast trajectory is a proxy, not realized temperature-lag testing."
+}

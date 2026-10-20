@@ -1,0 +1,51 @@
+{
+  "combined_html": "NYC_Combined_Research_Walkthrough.html",
+  "embedded_charts": 12,
+  "source_documents": [
+    {
+      "file": "outputs/NYC_Weather_Electricity.html",
+      "sha256": "a228e921fa2a73d1c8aeb138fefe806da295155d0e82d3734825584297f7926f"
+    },
+    {
+      "file": "price_research/outputs/NYC_Finalized_Price_Research.html",
+      "sha256": "46bb1d4b78e5577177a76cc8be2a63e82726e6396953ee2e36f0d172568de146"
+    },
+    {
+      "file": "spread_backtest/outputs/NYC_Gross_Spread_Backtest.html",
+      "sha256": "781f03babaeacd115dc0ffbf5c0dbc38077accac2f1f72b326661d7c922c0072"
+    },
+    {
+      "file": "EXPERIMENT.md",
+      "sha256": "4951fa0cc376ae66da6a8e2a283a9b2961d598b5f83525c4e6e47e75d0337463"
+    },
+    {
+      "file": "SOURCES.md",
+      "sha256": "23654369d531992cf2a36407f1c791e885957615e6604f9dd149885c62d40b5d"
+    },
+    {
+      "file": "price_feasibility/FEASIBILITY_BRIEF.md",
+      "sha256": "3e30c20863ace4eb07dce65f1a82280a79803bcda1f2a9edc342ccdb7dd80028"
+    },
+    {
+      "file": "price_research/EXPERIMENT.md",
+      "sha256": "0ab13a0d72e4b4a7d79f710ab022f0cdfbf5fb9b658c51b2f2360eafb22d430d"
+    },
+    {
+      "file": "price_research/SOURCES.md",
+      "sha256": "e813c0978e2b620f057d695303d6ebdedc7821f871e99e78d4a66eb7bf062804"
+    },
+    {
+      "file": "trading_feasibility/FEASIBILITY_BRIEF.md",
+      "sha256": "625bb8ab5faeb397ecac0455db3edf41df9c7ab0c2b7d51f13104f65a3fa640d"
+    },
+    {
+      "file": "spread_backtest/EXPERIMENT.md",
+      "sha256": "ae755b476bb96496a8b604ad2ba636cbce56e257a80fbffa9e47ccd9f3225663"
+    },
+    {
+      "file": "spread_backtest/README.md",
+      "sha256": "594fbf752251a29625697b5885f70ba0dc3beba5e190e288e30d24a8d3633574"
+    }
+  ],
+  "validation": "Embedded images, internal anchors, local links and no remote script dependencies verified."
+}

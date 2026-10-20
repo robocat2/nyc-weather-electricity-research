@@ -1,0 +1,342 @@
+[
+  {
+    "file": "20250101OperMessages.csv",
+    "insert_time_local_string": "01-Jan-2025 14:49",
+    "message": "Prices in the December 31, 2024 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250101OperMessages.csv",
+    "insert_time_local_string": "01-Jan-2025 15:04",
+    "message": "Prices in the December 31, 2024 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 02, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250101OperMessages.csv",
+    "insert_time_local_string": "01-Jan-2025 18:37",
+    "message": "Prices in the January 01, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250102OperMessages.csv",
+    "insert_time_local_string": "02-Jan-2025 13:36",
+    "message": "Prices in the January 01, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 03, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250102OperMessages.csv",
+    "insert_time_local_string": "02-Jan-2025 15:28",
+    "message": "Prices in the January 02, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250103OperMessages.csv",
+    "insert_time_local_string": "03-Jan-2025 15:25",
+    "message": "Prices in the January 02, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 04, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250103OperMessages.csv",
+    "insert_time_local_string": "03-Jan-2025 16:56",
+    "message": "Prices in the January 03, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250104OperMessages.csv",
+    "insert_time_local_string": "04-Jan-2025 14:19",
+    "message": "Prices in the January 03, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 05, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250105OperMessages.csv",
+    "insert_time_local_string": "05-Jan-2025 16:33",
+    "message": "Prices in the January 04, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 06, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250105OperMessages.csv",
+    "insert_time_local_string": "05-Jan-2025 17:41",
+    "message": "Prices in the January 05, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250106OperMessages.csv",
+    "insert_time_local_string": "06-Jan-2025 16:31",
+    "message": "Prices in the January 05, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 07, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250106OperMessages.csv",
+    "insert_time_local_string": "06-Jan-2025 16:37",
+    "message": "Prices in the January 06, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250107OperMessages.csv",
+    "insert_time_local_string": "07-Jan-2025 16:09",
+    "message": "Prices in the January 06, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 08, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250107OperMessages.csv",
+    "insert_time_local_string": "07-Jan-2025 16:24",
+    "message": "Prices in the January 07, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250108OperMessages.csv",
+    "insert_time_local_string": "08-Jan-2025 15:21",
+    "message": "Prices in the January 07, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 09, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250109OperMessages.csv",
+    "insert_time_local_string": "09-Jan-2025 09:42",
+    "message": "NYISO has corrected prices in HB 3 in the January 04, 2025 Real-Time Market.\r\nNYISO is releasing prices in HB 4 in the January 04, 2025 Real-Time Market."
+  },
+  {
+    "file": "20250109OperMessages.csv",
+    "insert_time_local_string": "09-Jan-2025 10:12",
+    "message": "Prices in the January 08, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250109OperMessages.csv",
+    "insert_time_local_string": "09-Jan-2025 15:37",
+    "message": "Prices in the January 08, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 10, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250109OperMessages.csv",
+    "insert_time_local_string": "09-Jan-2025 18:00",
+    "message": "Prices in the January 09, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250110OperMessages.csv",
+    "insert_time_local_string": "10-Jan-2025 15:50",
+    "message": "Prices in the January 09, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 11, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250110OperMessages.csv",
+    "insert_time_local_string": "10-Jan-2025 17:43",
+    "message": "Prices in the January 10, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250111OperMessages.csv",
+    "insert_time_local_string": "11-Jan-2025 16:19",
+    "message": "NYISO is reserving HB 13,14,15,16 in the January 10, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves.\r\nPrices in the January 12, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250111OperMessages.csv",
+    "insert_time_local_string": "11-Jan-2025 17:06",
+    "message": "Prices in the January 11, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250112OperMessages.csv",
+    "insert_time_local_string": "12-Jan-2025 16:29",
+    "message": "Prices in the January 11, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 13, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250112OperMessages.csv",
+    "insert_time_local_string": "12-Jan-2025 17:43",
+    "message": "Prices in the January 12, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250113OperMessages.csv",
+    "insert_time_local_string": "13-Jan-2025 14:33",
+    "message": "Prices in the January 12, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 14, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250114OperMessages.csv",
+    "insert_time_local_string": "14-Jan-2025 15:28",
+    "message": "Prices in the January 13, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250114OperMessages.csv",
+    "insert_time_local_string": "14-Jan-2025 15:47",
+    "message": "Prices in the January 13, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 15, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250114OperMessages.csv",
+    "insert_time_local_string": "14-Jan-2025 16:27",
+    "message": "Day Ahead Load Pocket Thresholds have been updated for market day of:\nJanuary 16, 2025\nDay Ahead Load Pocket Threshold $\nDUNWOODIE SOUTH $28.90\nSTATEN ISLAND $17.40\nEAST RIVER $28.26\nIN CITY 345/138 $22.36\nASTORIA EAST/COR/JAMAICA $21.55\nASTOR WEST/QUEENB/VERNON $20.94\nASTORIA WEST/QUEENSBRIDG $20.83\nVERNON/GREENWOOD $22.82\nGREENWOOD/STATEN ISLAND $13.44"
+  },
+  {
+    "file": "20250114OperMessages.csv",
+    "insert_time_local_string": "14-Jan-2025 17:30",
+    "message": "Prices in the January 14, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250115OperMessages.csv",
+    "insert_time_local_string": "15-Jan-2025 16:22",
+    "message": "NYISO is reserving HB 12,13 in the January 14, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves.\r\nPrices in the January 16, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250116OperMessages.csv",
+    "insert_time_local_string": "16-Jan-2025 16:08",
+    "message": "Prices in the January 15, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250116OperMessages.csv",
+    "insert_time_local_string": "16-Jan-2025 16:12",
+    "message": "NYISO is reserving HB 12,13,14 in the January 15, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves.\r\nPrices in the January 17, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250116OperMessages.csv",
+    "insert_time_local_string": "16-Jan-2025 16:39",
+    "message": "Prices in the January 16, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250117OperMessages.csv",
+    "insert_time_local_string": "17-Jan-2025 17:20",
+    "message": "Prices in the January 16, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 18, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250118OperMessages.csv",
+    "insert_time_local_string": "18-Jan-2025 16:45",
+    "message": "Prices in the January 17, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 19, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250119OperMessages.csv",
+    "insert_time_local_string": "19-Jan-2025 11:01",
+    "message": "A Day-Ahead Advisory has been given to SCR resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 16:00 and ending at 22:00."
+  },
+  {
+    "file": "20250119OperMessages.csv",
+    "insert_time_local_string": "19-Jan-2025 11:01",
+    "message": "A Day-Ahead Advisory has been given to EDRP resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 16:00 and ending at 22:00."
+  },
+  {
+    "file": "20250119OperMessages.csv",
+    "insert_time_local_string": "19-Jan-2025 14:58",
+    "message": "Prices in the January 18, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250119OperMessages.csv",
+    "insert_time_local_string": "19-Jan-2025 14:59",
+    "message": "Prices in the January 18, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 20, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250119OperMessages.csv",
+    "insert_time_local_string": "19-Jan-2025 17:30",
+    "message": "Prices in the January 19, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250120OperMessages.csv",
+    "insert_time_local_string": "20-Jan-2025 11:36",
+    "message": "A Day-Ahead Advisory has been given to SCR resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 16:00 and ending at 22:00."
+  },
+  {
+    "file": "20250120OperMessages.csv",
+    "insert_time_local_string": "20-Jan-2025 11:37",
+    "message": "A Day-Ahead Advisory has been given to EDRP resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 16:00 and ending at 22:00."
+  },
+  {
+    "file": "20250120OperMessages.csv",
+    "insert_time_local_string": "20-Jan-2025 15:01",
+    "message": "Prices in the January 19, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 21, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250120OperMessages.csv",
+    "insert_time_local_string": "20-Jan-2025 15:19",
+    "message": "Prices in the January 20, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250121OperMessages.csv",
+    "insert_time_local_string": "21-Jan-2025 11:10",
+    "message": "A Day-Ahead Advisory has been given to SCR resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 16:00 and ending at 22:00."
+  },
+  {
+    "file": "20250121OperMessages.csv",
+    "insert_time_local_string": "21-Jan-2025 11:11",
+    "message": "A Day-Ahead Advisory has been given to EDRP resources in Zones A, B, C, D, E, F, G, H, I, J, K starting at 16:00 and ending at 22:00."
+  },
+  {
+    "file": "20250121OperMessages.csv",
+    "insert_time_local_string": "21-Jan-2025 16:25",
+    "message": "Prices in the January 20, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 22, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250121OperMessages.csv",
+    "insert_time_local_string": "21-Jan-2025 18:08",
+    "message": "Prices in the January 21, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250122OperMessages.csv",
+    "insert_time_local_string": "22-Jan-2025 16:38",
+    "message": "Prices in the January 21, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 23, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250122OperMessages.csv",
+    "insert_time_local_string": "22-Jan-2025 19:09",
+    "message": "Prices in the January 22, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250123OperMessages.csv",
+    "insert_time_local_string": "23-Jan-2025 16:38",
+    "message": "NYISO is reserving HB 16,17,18,19 in the January 22, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves.\r\nPrices in the January 24, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250123OperMessages.csv",
+    "insert_time_local_string": "23-Jan-2025 16:47",
+    "message": "Prices in the January 23, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250124OperMessages.csv",
+    "insert_time_local_string": "24-Jan-2025 16:46",
+    "message": "Prices in the January 23, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 25, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250125OperMessages.csv",
+    "insert_time_local_string": "25-Jan-2025 14:24",
+    "message": "Prices in the January 24, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 26, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250125OperMessages.csv",
+    "insert_time_local_string": "25-Jan-2025 14:34",
+    "message": "Prices in the January 25, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250126OperMessages.csv",
+    "insert_time_local_string": "26-Jan-2025 13:54",
+    "message": "Prices in the January 25, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 27, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250126OperMessages.csv",
+    "insert_time_local_string": "26-Jan-2025 15:42",
+    "message": "Prices in the January 26, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250127OperMessages.csv",
+    "insert_time_local_string": "27-Jan-2025 14:54",
+    "message": "Prices in the January 26, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 28, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250128OperMessages.csv",
+    "insert_time_local_string": "28-Jan-2025 16:23",
+    "message": "Prices in the January 27, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250128OperMessages.csv",
+    "insert_time_local_string": "28-Jan-2025 16:24",
+    "message": "Prices in the January 27, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 29, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250128OperMessages.csv",
+    "insert_time_local_string": "28-Jan-2025 19:10",
+    "message": "Prices in the January 28, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250129OperMessages.csv",
+    "insert_time_local_string": "29-Jan-2025 15:15",
+    "message": "Prices in the January 28, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 30, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250130OperMessages.csv",
+    "insert_time_local_string": "30-Jan-2025 10:51",
+    "message": "Prices in the January 29, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250130OperMessages.csv",
+    "insert_time_local_string": "30-Jan-2025 15:08",
+    "message": "Prices in the January 29, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the January 31, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250131OperMessages.csv",
+    "insert_time_local_string": "31-Jan-2025 16:14",
+    "message": "Prices in the January 30, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  },
+  {
+    "file": "20250131OperMessages.csv",
+    "insert_time_local_string": "31-Jan-2025 16:15",
+    "message": "Prices in the January 30, 2025 Real-Time Market for the period hours beginning 12 through 23 encompassing Energy, Regulation, and Operating Reserves are correct.\r\nPrices in the February 01, 2025 Day-Ahead Market are correct."
+  },
+  {
+    "file": "20250131OperMessages.csv",
+    "insert_time_local_string": "31-Jan-2025 16:38",
+    "message": "Prices in the January 31, 2025 Real-Time Market for the period hours beginning 0 through 11 encompassing Energy, Regulation, and Operating Reserves are correct."
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "total_absolute_error_improvement": 2108.8248408073987,
+  "ten_largest_baseline_error_days_improvement": 564.0744474432646,
+  "ten_day_share_of_total_improvement": 0.26748283523979133,
+  "diagnostic_only": "Primary evaluation includes every matched day; no outlier deletion or model changes."
+}

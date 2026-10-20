@@ -1,0 +1,10 @@
+{
+  "family": "trajectory",
+  "passed": true,
+  "eligible": 1780,
+  "excluded": 46,
+  "original_data_sha256": "c43cdb048b89672c986a00aab1657691b3421d85dc923493cfe3a44877f85c30",
+  "spread_inventory_sha256": "753e1150386a0b57393a1daab8890f352e8082242328eeb3078d5a46ca0768e1",
+  "older_inventory_sha256": null,
+  "eligible_sha256": "74f2d974c571e20be44aa8f60dc5926b837857266643193ec0d2258a8662578e"
+}

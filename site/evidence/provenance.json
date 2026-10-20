@@ -1,0 +1,41 @@
+{
+  "snapshot": "Completed research; 2021\u20132025 observations. No live data.",
+  "sources": [
+    {
+      "file": "research/outputs/test_metrics.csv",
+      "sha256": "51b34615046edb90b712558f793efc60557a6850e225fa537921392b49bed7d4"
+    },
+    {
+      "file": "research/price_research/outputs/test_metrics.csv",
+      "sha256": "9938a415210870e711624de18d55d5b9ecbc24104c09104343934e93000f276f"
+    },
+    {
+      "file": "research/spread_backtest/outputs/test_metrics.csv",
+      "sha256": "2b5b8a9e631002f83057c84b32d02aebce7f0414a179601332bba183813db6de"
+    },
+    {
+      "file": "research/spread_backtest/outputs/cumulative_payoff.csv",
+      "sha256": "b0e6f8cba21ca1d03c547df3bda7dde9967c9653c87c18a2441db493df3d81f4"
+    },
+    {
+      "file": "research/spread_backtest/outputs/uncertainty.csv",
+      "sha256": "b34ef2b3c052751c8900efec4465f1b3a9f58d7c5854fcfa56839a7b0dedd680"
+    },
+    {
+      "file": "research/followup_hypotheses/outputs/trajectory/summary.json",
+      "sha256": "14418e23adc6ec4c4337e3e2031c03afb4a540811faa5def5073fcd708beefe5"
+    },
+    {
+      "file": "research/followup_hypotheses/outputs/trajectory/uncertainty.csv",
+      "sha256": "4cc3bc2eaefd9589158c3a411b3a5d5b8f0c3da21cf990463c373fd564063e4b"
+    },
+    {
+      "file": "research/followup_hypotheses/outputs/revision/summary.json",
+      "sha256": "76b357c32d175d305f8c63cc5cf333dfcf78af8c4419493f505ed072b2dc4b8e"
+    },
+    {
+      "file": "research/followup_hypotheses/outputs/revision/uncertainty.csv",
+      "sha256": "2d3aadec16eba870edc5c64b439612f6cee31a1a56b3d262521a171059470b3c"
+    }
+  ]
+}

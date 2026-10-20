@@ -1,0 +1,427 @@
+[
+  {
+    "file": "additional_pricing_rules.pdf",
+    "bytes": 921685,
+    "sha256": "a6e28bf13b4ed4f15bb6a4f2c9ca3e9549755716037999e6c017ad87ef147f5d"
+  },
+  {
+    "file": "additional_pricing_rules.pdf.receipt.json",
+    "bytes": 3312,
+    "sha256": "8ce18afaae36e4c40d543f69abba1d55574f9fc726ba265fa3434e96ab0b4153"
+  },
+  {
+    "file": "additional_pricing_rules.txt",
+    "bytes": 36176,
+    "sha256": "7795a14e10f52712fca3fb1e169673e0004b32a5d25e250a6a71a5ef3db2df7c"
+  },
+  {
+    "file": "announcements_202501.zip",
+    "bytes": 13564,
+    "sha256": "040bf3697d3772cced179f65ee47534a0b77c0fd1376085f5523977b21e0566a"
+  },
+  {
+    "file": "announcements_202501.zip.receipt.json",
+    "bytes": 607,
+    "sha256": "7f6e92a7f1fc345f1e7f6dbbb136b508345dcb5f2eb5ba0878355b7b33ff3332"
+  },
+  {
+    "file": "announcements_202507.zip",
+    "bytes": 14592,
+    "sha256": "2bb792fb3f8ce0bab57f236f8e1c82b251a725e613596590c08988b8e20b0423"
+  },
+  {
+    "file": "announcements_202507.zip.receipt.json",
+    "bytes": 607,
+    "sha256": "5ef45f5bb963c8d28ca4ae0f83561a4c6db244974434ff90e7e68366c99a1afe"
+  },
+  {
+    "file": "announcements_index.html",
+    "bytes": 152813,
+    "sha256": "7dd71ac1171f8780c64dad8e49fd286e1b99a1ce2ae9bce34e76162c8bfddee2"
+  },
+  {
+    "file": "announcements_index.html.receipt.json",
+    "bytes": 601,
+    "sha256": "fa7acf8c9f0a3cd1c8ef7245557604d6906bbd10f2193500a7c26945fc78d212"
+  },
+  {
+    "file": "correction_index.html",
+    "bytes": 33525,
+    "sha256": "7e6048e864d7156d0f49741a31e6971e2b8d53329882636e1dd517820392ea6f"
+  },
+  {
+    "file": "correction_index.html.receipt.json",
+    "bytes": 596,
+    "sha256": "d7ff0fe05011e9ecbcc7ff9ddaa2d829f0311f02ef24432c777a99cc175d903b"
+  },
+  {
+    "file": "price_2021-01-15.csv",
+    "bytes": 17144,
+    "sha256": "cdbfea6f0c50e69d26b028d7bdc16a82dba433ab7678cd698268159bf4c51979"
+  },
+  {
+    "file": "price_2021-01-15.csv.receipt.json",
+    "bytes": 295,
+    "sha256": "88cfdee56ac5057903b0aa56a1dec9ff373d729e3340b269032100a2a19bec23"
+  },
+  {
+    "file": "price_2021-07-15.csv",
+    "bytes": 17004,
+    "sha256": "8c75993b7e912767cda4db7d5cf2d0e97a5ec52594d85a5123073b236485a901"
+  },
+  {
+    "file": "price_2021-07-15.csv.receipt.json",
+    "bytes": 295,
+    "sha256": "71db2763a667a1b22017d263aa2f5a691183b5d9cd1d9fe4648f4d982db58120"
+  },
+  {
+    "file": "price_2023-01-15.csv",
+    "bytes": 17152,
+    "sha256": "a9c73d2fd68f0ba2f88d59b4379e6aa40d5b7a42b70967788c66bc586d7924fb"
+  },
+  {
+    "file": "price_2023-01-15.csv.receipt.json",
+    "bytes": 295,
+    "sha256": "adb93a4a27f3b9c4f33d9e4968f3528784ae9a3a8f743b339cfc7ba22ec29add"
+  },
+  {
+    "file": "price_2023-07-15.csv",
+    "bytes": 16817,
+    "sha256": "fff76728754500aa8a8213e5bccd3f398cf9535b64d6689579db27bc21ef952a"
+  },
+  {
+    "file": "price_2023-07-15.csv.receipt.json",
+    "bytes": 295,
+    "sha256": "cff89bd4edcd98f4f29f6da3e30ed2a1ec0d7277c1b6169479d5fa3607d59ab1"
+  },
+  {
+    "file": "price_2024-03-10.csv",
+    "bytes": 16139,
+    "sha256": "90cce5947bbb4d7df77098ad1b32bb83669826c92217adf54abb3bd8b72bc70a"
+  },
+  {
+    "file": "price_2024-03-10.csv.receipt.json",
+    "bytes": 295,
+    "sha256": "77500d167eecfa86e0c1baacee4b5b5eb125650f884d8a6c705ed11d62986e0e"
+  },
+  {
+    "file": "price_2024-11-03.csv",
+    "bytes": 17479,
+    "sha256": "98d101826e9993c0c21a4cbc2e2ad3529265a6bcf8ae9f11f9e97427301c38ae"
+  },
+  {
+    "file": "price_2024-11-03.csv.receipt.json",
+    "bytes": 295,
+    "sha256": "f1792d24c09f83b77d32c32462a871c1ad23bcca48603a419a69e806b5ffddda"
+  },
+  {
+    "file": "price_2025-01-15.csv",
+    "bytes": 17379,
+    "sha256": "cf3fc332625c821b85a871b7b8c2325d30c9538ca1887e2649378171d166e803"
+  },
+  {
+    "file": "price_2025-01-15.csv.receipt.json",
+    "bytes": 295,
+    "sha256": "48cc73d5f3d6cb6f11d23f6397ae770cfcff32200dee46b8e5d18f723eed20ec"
+  },
+  {
+    "file": "price_2025-07-15.csv",
+    "bytes": 16865,
+    "sha256": "fc9cc23511653cc2bc0c88a3cb446a97272f0c01af52d2c30c60ad170767f9f2"
+  },
+  {
+    "file": "price_2025-07-15.csv.receipt.json",
+    "bytes": 295,
+    "sha256": "69f6036d6b1a0462843f6d4d386d3249896c26b1e0a3a517c36d237f1340933e"
+  },
+  {
+    "file": "price_index.html",
+    "bytes": 152411,
+    "sha256": "a3dbe5af3395bbb0ea82847a4a594d561c37d24a186d6947580be5b3f91b8cf2"
+  },
+  {
+    "file": "price_index.html.receipt.json",
+    "bytes": 593,
+    "sha256": "0c0beaa2e6ab4ef4364757c164b0bdf6f2925258960077aec959bba84fc27384"
+  },
+  {
+    "file": "prices_202101.zip",
+    "bytes": 125687,
+    "sha256": "68aaa865d02e737442cd2fbe6b482c017fed0d7d1eb3e13ea6e5d1ad4bb89b32"
+  },
+  {
+    "file": "prices_202101.zip.receipt.json",
+    "bytes": 597,
+    "sha256": "e8e0a9d8518b5e9445c72948d389055364304016a85ce0ccc862784a0bf087e5"
+  },
+  {
+    "file": "prices_202107.zip",
+    "bytes": 128480,
+    "sha256": "7aa294c9f540f4de6c42d973f3de834f9b9da63fb403d99b319dfba6bc8d6514"
+  },
+  {
+    "file": "prices_202107.zip.receipt.json",
+    "bytes": 597,
+    "sha256": "3809ec3072c8cd1cbfad61c38b7abc4a46850d6531bdd8dd7c6301da2b6c22fb"
+  },
+  {
+    "file": "prices_202301.zip",
+    "bytes": 125972,
+    "sha256": "b931638c85dd255645fef6bcd61ec24ab0f4b5a04655617ebd6ad7ebebae8c8a"
+  },
+  {
+    "file": "prices_202301.zip.receipt.json",
+    "bytes": 597,
+    "sha256": "1e6d2a769edb4598fe7fb9781ec8dac56c4d867952ca453e0b9ece5d7421dcc9"
+  },
+  {
+    "file": "prices_202307.zip",
+    "bytes": 117117,
+    "sha256": "e59a33fff23d1d2a810da24cdb42fff4435c0d0c23cfef71275c71800ed6bce0"
+  },
+  {
+    "file": "prices_202307.zip.receipt.json",
+    "bytes": 597,
+    "sha256": "48f125394840fe3fbfa57618e51f1ea6153e59de7aa44e3accd012fec2f3ed42"
+  },
+  {
+    "file": "prices_202403.zip",
+    "bytes": 102705,
+    "sha256": "7bcf8b74308aff9bd5766ac982ea174d46c1f412f7b5c7f44d9305b7bea2d3bc"
+  },
+  {
+    "file": "prices_202403.zip.receipt.json",
+    "bytes": 597,
+    "sha256": "f6ed8c709b0f416d549a474c8c998545dc4d7cc9e1fbc92fc14ee71cd4c03735"
+  },
+  {
+    "file": "prices_202411.zip",
+    "bytes": 108815,
+    "sha256": "fc0e247c42dd4cf089837480248a189ce2eada23c33c010881d065b5f4853c62"
+  },
+  {
+    "file": "prices_202411.zip.receipt.json",
+    "bytes": 597,
+    "sha256": "c58949910dff569489b61bd0c5600726d9b5e13c376a6fc4497e8aae185e138a"
+  },
+  {
+    "file": "prices_202501.zip",
+    "bytes": 132068,
+    "sha256": "dd0de661a2eb63ee43c9e9ffa9cb4e73409e345b5751b5e5eb39e1f15897a1ca"
+  },
+  {
+    "file": "prices_202501.zip.receipt.json",
+    "bytes": 597,
+    "sha256": "6d038eecc33b34a5d38258522831da1b10b62f62731fa787d12477d9d8c621a0"
+  },
+  {
+    "file": "prices_202507.zip",
+    "bytes": 115561,
+    "sha256": "7d1ab5b53bbf60fda665e291411aacd5eb69cdbe92353ffb6475cf0d75eff8fe"
+  },
+  {
+    "file": "prices_202507.zip.receipt.json",
+    "bytes": 597,
+    "sha256": "7d809b789183ef689b62cd49aa3b0a2447305d34f52060ea21c16baa1b9f3834"
+  },
+  {
+    "file": "weather_2021-01-15.idx",
+    "bytes": 10654,
+    "sha256": "bc6a1066d12080e4082cce383bc417c116b32f7a0cb9bba3c974a6cbd2247524"
+  },
+  {
+    "file": "weather_2021-01-15.idx.receipt.json",
+    "bytes": 786,
+    "sha256": "3f4cbd49a4f19a7ad02218945952d98b0221af0c1f131fcc0d3c8804f40886a5"
+  },
+  {
+    "file": "weather_2021-01-15_head.json",
+    "bytes": 652,
+    "sha256": "5e472be24c864a0a9611112c8ee0efeab1ae891041967013660c78c4c8b253cd"
+  },
+  {
+    "file": "weather_2021-01-15_temperature.grib2",
+    "bytes": 1193574,
+    "sha256": "467684f009c4e845a1bc50090626a98c20218ce26b43f8d660565eaa8a17cf3a"
+  },
+  {
+    "file": "weather_2021-01-15_temperature.grib2.receipt.json",
+    "bytes": 858,
+    "sha256": "ed19b94a9ec61f0bc06fb01c6bf94a90c424ee6fd495bcd73519f715c774592a"
+  },
+  {
+    "file": "weather_2021-07-15.idx",
+    "bytes": 10658,
+    "sha256": "e448472675e2742e3e4bb357fd0dcf41bae89847dc1dfb51a7a9f8faafdd3d3f"
+  },
+  {
+    "file": "weather_2021-07-15.idx.receipt.json",
+    "bytes": 786,
+    "sha256": "f2443c0d5cdc0ec9385d52dd721923820516b20a5cfeb488d079a0de012ef184"
+  },
+  {
+    "file": "weather_2021-07-15_head.json",
+    "bytes": 652,
+    "sha256": "8f250c5268bd654cd4664abad25ee35326d5f3fb507ef44f0bee59cf26b1813f"
+  },
+  {
+    "file": "weather_2021-07-15_temperature.grib2",
+    "bytes": 1302793,
+    "sha256": "da1680ee67782d52491e5707b3f420b27a276d8ed5ee45d0787d0cb14e187ba5"
+  },
+  {
+    "file": "weather_2021-07-15_temperature.grib2.receipt.json",
+    "bytes": 858,
+    "sha256": "8b7a3f46da2474a92eb5bc873951bda0f862e6d14a62275cc11362ae28d29375"
+  },
+  {
+    "file": "weather_2023-01-15.idx",
+    "bytes": 10673,
+    "sha256": "709db2c878efec69e9a99c4c12c03027d4a3fdbf70cb4dcd01581c0a376e663e"
+  },
+  {
+    "file": "weather_2023-01-15.idx.receipt.json",
+    "bytes": 832,
+    "sha256": "3d112b62b2cc64116e68712ad632573c72dc199af60b266fe6849e1465ed977f"
+  },
+  {
+    "file": "weather_2023-01-15_head.json",
+    "bytes": 698,
+    "sha256": "a8809a67c8b7aa3a328eba427dc5078d83696641c2e7247177183384ce5c59e4"
+  },
+  {
+    "file": "weather_2023-01-15_temperature.grib2",
+    "bytes": 1212972,
+    "sha256": "69ce1e69852b802f0c9401eec10a629b9ec477fb25d785b8c46a208c43cb48ac"
+  },
+  {
+    "file": "weather_2023-01-15_temperature.grib2.receipt.json",
+    "bytes": 904,
+    "sha256": "c73d61dbbd859e599b5b8bf68b88aea5b23ee5351dcb552c9e76dea49b8bbf17"
+  },
+  {
+    "file": "weather_2023-07-15.idx",
+    "bytes": 10563,
+    "sha256": "ba39cdd27ff124eb9fff20125f4201bc8bbd0a1efa6f95071418e11bb8e82e44"
+  },
+  {
+    "file": "weather_2023-07-15.idx.receipt.json",
+    "bytes": 832,
+    "sha256": "b58c6771655e7058317304b1bcea73d33794a614f96b24886c87a81e5aa5dc6e"
+  },
+  {
+    "file": "weather_2023-07-15_head.json",
+    "bytes": 698,
+    "sha256": "6d177b6c6827c8af2a2e5c1e437f832fd92e739127ddb0d7f414f3a0fdb0f8a7"
+  },
+  {
+    "file": "weather_2023-07-15_temperature.grib2",
+    "bytes": 1305897,
+    "sha256": "58f568a7b950ab543662181d498436ca78f829bbb1201b1c463a6711234f39e7"
+  },
+  {
+    "file": "weather_2023-07-15_temperature.grib2.receipt.json",
+    "bytes": 904,
+    "sha256": "fe46a28ff5058b4c20d15bf64a66f29b23150e32c9488267911fb9ff3a684d7e"
+  },
+  {
+    "file": "weather_2024-03-10.idx",
+    "bytes": 10562,
+    "sha256": "55609e25e58ea08eb1bbff37a30f02fb50379a4270d0bce52e2e5b469c07fc11"
+  },
+  {
+    "file": "weather_2024-03-10.idx.receipt.json",
+    "bytes": 852,
+    "sha256": "129eee3ca88ecd8f029089467057bb49434034d152654c1f12686148b8070cff"
+  },
+  {
+    "file": "weather_2024-03-10_head.json",
+    "bytes": 718,
+    "sha256": "a2ab4a7dabda2a7a091991938d4477656c885f3d46dab9799ae6cfaf32ed0cad"
+  },
+  {
+    "file": "weather_2024-03-10_temperature.grib2",
+    "bytes": 1199317,
+    "sha256": "23e40dfb22ef03368acec07293c7ddec5ff00bbc3117b45baeca7f3e48ffcbe0"
+  },
+  {
+    "file": "weather_2024-03-10_temperature.grib2.receipt.json",
+    "bytes": 924,
+    "sha256": "061a666fa4a4c0808b8fadb3a901e38bf7ec40924da975997cca5632c6c93450"
+  },
+  {
+    "file": "weather_2024-11-03.idx",
+    "bytes": 10565,
+    "sha256": "f0f42fe48d7fb6bbd0da275126ad2cbffd3e6d87eefc6733ab75020efbdf5f38"
+  },
+  {
+    "file": "weather_2024-11-03.idx.receipt.json",
+    "bytes": 852,
+    "sha256": "e915af3a7dda446a4f2047c90a54512d4e73e768428065e47d89ec1d7ecff476"
+  },
+  {
+    "file": "weather_2024-11-03_head.json",
+    "bytes": 718,
+    "sha256": "9faff90eff2d3dd88f7291c9e742f5512f96b11770fe72ab387b29a1e51ab4f7"
+  },
+  {
+    "file": "weather_2024-11-03_temperature.grib2",
+    "bytes": 1169023,
+    "sha256": "1a8fd9158319ee7db45421670edf19656d28e17d99ae3119e95b8655c767e3be"
+  },
+  {
+    "file": "weather_2024-11-03_temperature.grib2.receipt.json",
+    "bytes": 924,
+    "sha256": "a4b7ea201d1130d08cb9cc9f7d5d4464363ca757abfbb221d3ec376954c99f8f"
+  },
+  {
+    "file": "weather_2025-01-15.idx",
+    "bytes": 10558,
+    "sha256": "8d72c9d6ee9fc3b90acc9906a8240c3db371d331b18b8b0dd9bba76d6ef02a6d"
+  },
+  {
+    "file": "weather_2025-01-15.idx.receipt.json",
+    "bytes": 852,
+    "sha256": "a2d44ff1bf45ae28d522897a03c8457fbbea731abae0e255ac42f7e6baecd3b1"
+  },
+  {
+    "file": "weather_2025-01-15_head.json",
+    "bytes": 718,
+    "sha256": "b2575a0f622d79c29e1ac629dde27dd8ef840bea8648b14354271e2dd9469ee7"
+  },
+  {
+    "file": "weather_2025-01-15_temperature.grib2",
+    "bytes": 1209513,
+    "sha256": "618bf6212239e41f9aa6eac4b63759e512022445c020958e0e47ca596c93f091"
+  },
+  {
+    "file": "weather_2025-01-15_temperature.grib2.receipt.json",
+    "bytes": 924,
+    "sha256": "0b337acdb8579cde2dd744d333af9d1d20179b83a33ce61d44e1041ad058c079"
+  },
+  {
+    "file": "weather_2025-07-15.idx",
+    "bytes": 10565,
+    "sha256": "cb44de6a1cc150acf198b8d883a67c7cdb7937ad34715b74bcf8502c18970665"
+  },
+  {
+    "file": "weather_2025-07-15.idx.receipt.json",
+    "bytes": 832,
+    "sha256": "1bb91b4cf4212b327b09af954d17cc677ad21161add4a81ae7ba048cd52bc63a"
+  },
+  {
+    "file": "weather_2025-07-15_head.json",
+    "bytes": 698,
+    "sha256": "0f7e1c0de44abace8edde1fa45ff2e1a047429bf1d46d1744ac52354d703dff6"
+  },
+  {
+    "file": "weather_2025-07-15_temperature.grib2",
+    "bytes": 1302413,
+    "sha256": "34e73c2e2f0e39edc46e2a564f89179831731d737fac9b89ef0ce0f06118ce2d"
+  },
+  {
+    "file": "weather_2025-07-15_temperature.grib2.receipt.json",
+    "bytes": 904,
+    "sha256": "8006d381fc1bc9d5e129fa4a6c8d2ae288006fad3eb9209a6ffc3cb3e020f2ca"
+  }
+]

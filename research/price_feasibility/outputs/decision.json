@@ -1,0 +1,10 @@
+{
+  "decision": "STOP_before_fitting",
+  "forecast_samples_verified": 8,
+  "price_target_samples_verified": 8,
+  "lag_endpoints_checked": 16,
+  "price_models_fitted": 0,
+  "price_vintage_reconstruction_verified": false,
+  "notebook_code_cells_executed": 3,
+  "model_scores_or_trading_profit_claims": false
+}

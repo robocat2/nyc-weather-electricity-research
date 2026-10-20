@@ -1,0 +1,15 @@
+{
+  "passed_tests": 10,
+  "notebook_code_cells_executed": 7,
+  "notebook_png_figures": 4,
+  "ols_normal_equation_crosscheck_max_prediction_difference_mw": {
+    "calendar": 4.36375557910651e-09,
+    "linear": 4.31737134931609e-09,
+    "spline": 1.2319105735514313e-08
+  },
+  "figure_visual_review": "All four PNGs inspected for labels, units, readability, values and clipping.",
+  "html_review": "Export generated; embedded figure count and links checked. Full browser rendering not inspected.",
+  "specification_unchanged": true,
+  "model_features_unchanged_after_first_final_evaluation": true,
+  "completed_scope": "Frozen three-model comparison; no further modeling pending."
+}

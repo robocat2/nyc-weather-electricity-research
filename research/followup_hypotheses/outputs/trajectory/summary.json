@@ -1,0 +1,14 @@
+{
+  "family": "trajectory",
+  "selected": "trajectory1",
+  "test_days": 356,
+  "gross_total": 1121.8800000000003,
+  "linear_total": 776.1200000000006,
+  "always_load_total": 609.0600000000002,
+  "best_date": "2025-06-24",
+  "best_payoff": 1768.5300000000002,
+  "rest_payoff": -646.6499999999999,
+  "positive_months": 4,
+  "exploratory": true,
+  "costs_or_fills_tested": false
+}

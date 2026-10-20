@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+node_modules/
+dist/
+.vercel/
+.env
+.env.*
+!research/price_research/raw/forecast_2021-01-01.grib2
+!research/price_research/raw/forecast_2021-01-01.grib2.receipt.json
+*.zip
+artifacts/

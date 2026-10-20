@@ -1,0 +1,130 @@
+[
+  {
+    "delivery_date": "2021-01-15",
+    "lag_days": 1,
+    "lag_delivery_date": "2021-01-14",
+    "cutoff_utc": "2021-01-14T09:00:00+00:00",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20210114damlbmp_zone.csv",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "delivery_date": "2021-01-15",
+    "lag_days": 7,
+    "lag_delivery_date": "2021-01-08",
+    "cutoff_utc": "2021-01-14T09:00:00+00:00",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20210108damlbmp_zone.csv",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "delivery_date": "2021-07-15",
+    "lag_days": 1,
+    "lag_delivery_date": "2021-07-14",
+    "cutoff_utc": "2021-07-14T08:00:00+00:00",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20210714damlbmp_zone.csv",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "delivery_date": "2021-07-15",
+    "lag_days": 7,
+    "lag_delivery_date": "2021-07-08",
+    "cutoff_utc": "2021-07-14T08:00:00+00:00",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20210708damlbmp_zone.csv",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "delivery_date": "2023-01-15",
+    "lag_days": 1,
+    "lag_delivery_date": "2023-01-14",
+    "cutoff_utc": "2023-01-14T09:00:00+00:00",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20230114damlbmp_zone.csv",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "delivery_date": "2023-01-15",
+    "lag_days": 7,
+    "lag_delivery_date": "2023-01-08",
+    "cutoff_utc": "2023-01-14T09:00:00+00:00",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20230108damlbmp_zone.csv",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "delivery_date": "2023-07-15",
+    "lag_days": 1,
+    "lag_delivery_date": "2023-07-14",
+    "cutoff_utc": "2023-07-14T08:00:00+00:00",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20230714damlbmp_zone.csv",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "delivery_date": "2023-07-15",
+    "lag_days": 7,
+    "lag_delivery_date": "2023-07-08",
+    "cutoff_utc": "2023-07-14T08:00:00+00:00",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20230708damlbmp_zone.csv",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "delivery_date": "2024-03-10",
+    "lag_days": 1,
+    "lag_delivery_date": "2024-03-09",
+    "cutoff_utc": "2024-03-09T09:00:00+00:00",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20240309damlbmp_zone.csv",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "delivery_date": "2024-03-10",
+    "lag_days": 7,
+    "lag_delivery_date": "2024-03-03",
+    "cutoff_utc": "2024-03-09T09:00:00+00:00",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20240303damlbmp_zone.csv",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "delivery_date": "2024-11-03",
+    "lag_days": 1,
+    "lag_delivery_date": "2024-11-02",
+    "cutoff_utc": "2024-11-02T08:00:00+00:00",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20241102damlbmp_zone.csv",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "delivery_date": "2024-11-03",
+    "lag_days": 7,
+    "lag_delivery_date": "2024-10-27",
+    "cutoff_utc": "2024-11-02T08:00:00+00:00",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20241027damlbmp_zone.csv",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "delivery_date": "2025-01-15",
+    "lag_days": 1,
+    "lag_delivery_date": "2025-01-14",
+    "cutoff_utc": "2025-01-14T09:00:00+00:00",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20250114damlbmp_zone.csv",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "delivery_date": "2025-01-15",
+    "lag_days": 7,
+    "lag_delivery_date": "2025-01-08",
+    "cutoff_utc": "2025-01-14T09:00:00+00:00",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20250108damlbmp_zone.csv",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "delivery_date": "2025-07-15",
+    "lag_days": 1,
+    "lag_delivery_date": "2025-07-14",
+    "cutoff_utc": "2025-07-14T08:00:00+00:00",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20250714damlbmp_zone.csv",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "delivery_date": "2025-07-15",
+    "lag_days": 7,
+    "lag_delivery_date": "2025-07-08",
+    "cutoff_utc": "2025-07-14T08:00:00+00:00",
+    "url": "https://mis.nyiso.com/public/csv/damlbmp/20250708damlbmp_zone.csv",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

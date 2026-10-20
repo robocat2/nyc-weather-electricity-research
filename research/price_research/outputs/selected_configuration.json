@@ -1,0 +1,31 @@
+{
+  "recorded_utc": "2026-10-17T01:53:21.091326+00:00",
+  "selected_weather_model": "spline",
+  "selection_metric": "2024 MAE $/MWh",
+  "fitting_years": [
+    2021,
+    2022,
+    2023
+  ],
+  "validation_year": 2024,
+  "final_refit_years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "evaluation_year": 2025,
+  "prior_exposure": "2025 demand data and eight source-feasibility price samples examined; not wholly unseen",
+  "hot_forecast_threshold_c_2021_2023": 30.408328247070337,
+  "specification_sha256": "0ab13a0d72e4b4a7d79f710ab022f0cdfbf5fb9b658c51b2f2360eafb22d430d",
+  "daily_data_sha256": "c43cdb048b89672c986a00aab1657691b3421d85dc923493cfe3a44877f85c30",
+  "availability_sha256": "cc4239d30b2e3ace1d8d9f9265c0397acc3e5bc9aa7fbaaa4b4a57e1c6dd684f",
+  "price_manifest_sha256": "e93d7141fa6f2ef181a1c6655b34cc0fcba4da00020dc09df28b77b16133e774",
+  "code_sha256": {
+    "acquire.py": "51dbeaf4e18287dcbf1ab608f226a22786b6f208d71432201d5180efd0c04037",
+    "evaluate.py": "9791a6452bb33d1d9a55ad0efe9212e0ed270bb637faeb62e85f4a294aabc617",
+    "model.py": "d617323028b96749e65ac230b94a849e22f881f817e245f9649f7e91f16122ef",
+    "prepare.py": "4a82fc04e7669d413af673f2dc2d5cd2f529169fc0a706653219f019aad2a4f2",
+    "run.py": "deb839deb99ca31f9f383658749e1e5a823c6bbb743166fcfe3a3bed33b0d9ed"
+  }
+}

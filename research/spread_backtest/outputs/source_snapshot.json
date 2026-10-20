@@ -1,0 +1,8 @@
+{
+  "forecast_data_sha256": "c43cdb048b89672c986a00aab1657691b3421d85dc923493cfe3a44877f85c30",
+  "spread_inventory_sha256": "753e1150386a0b57393a1daab8890f352e8082242328eeb3078d5a46ca0768e1",
+  "rt_source_manifest_sha256": "9af3f1839da25ed0a0b707f75fcbd66dca62043e6629980ec9a4ff2ee0df56fe",
+  "eligible_days": 1809,
+  "outcome_days": 1826,
+  "raw_rt_receipts_verified": 63
+}

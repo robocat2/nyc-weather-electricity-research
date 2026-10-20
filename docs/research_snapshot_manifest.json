@@ -1,0 +1,773 @@
+{
+  "scope": "Curated copy; original audited file bytes preserved. Bulk raw caches and environments excluded; one GRIB test fixture included.",
+  "files": [
+    {
+      "file": "DEMAND_STUDY.md",
+      "sha256": "f03fe6fe0d6fc99bf255deb99f1a0598dec92a8e07ea021cdb9276eb394e30ef"
+    },
+    {
+      "file": "EXPERIMENT.md",
+      "sha256": "4951fa0cc376ae66da6a8e2a283a9b2961d598b5f83525c4e6e47e75d0337463"
+    },
+    {
+      "file": "NYC_Weather_Electricity.ipynb",
+      "sha256": "5a49cf183bb552afb0ef59536ee6d46f510ced47d2b42e6b3f65ca27c4b3991b"
+    },
+    {
+      "file": "README.md",
+      "sha256": "564a94185acbad298ba80d9ebe3fbc584dc31f1629a42442de4bafee671774c0"
+    },
+    {
+      "file": "SOURCES.md",
+      "sha256": "23654369d531992cf2a36407f1c791e885957615e6604f9dd149885c62d40b5d"
+    },
+    {
+      "file": "build_combined_walkthrough.py",
+      "sha256": "a76f6088798e6370a7257a106fcaf51d43ecf8603ee2d1749186b3818e3acce2"
+    },
+    {
+      "file": "build_notebook.py",
+      "sha256": "7c7e233bfbc8990cc1a1c93bc09d39f18d0943139bb1eec0876944e740491685"
+    },
+    {
+      "file": "execute_notebook.py",
+      "sha256": "a5bd4d3e9efc8c2ef3577b3181fedac2564815ca8a35deea182313f41683d92c"
+    },
+    {
+      "file": "followup_hypotheses/EXPERIMENT.md",
+      "sha256": "3b02defee9cc9a7cf030e31672556bb42bcd303d16d4c52288eb40232b81747b"
+    },
+    {
+      "file": "followup_hypotheses/PLAN.md",
+      "sha256": "4316c93e3e9e05de345e2fb92b3cc02ef91af9e32ec2e9b34b8506ce63d39bf8"
+    },
+    {
+      "file": "followup_hypotheses/README.md",
+      "sha256": "a62b1d7ae350416b86449c119a8c0d2975b5548dbd0df97d1d6a569083a14a43"
+    },
+    {
+      "file": "followup_hypotheses/audit_sources_and_intervals.py",
+      "sha256": "582f70e0a89d5d7f798e1558600c9502d2fe25b9cff4ef07b5912cee49261eca"
+    },
+    {
+      "file": "followup_hypotheses/build_report.py",
+      "sha256": "7865e82e1bc677dc0e297198e7b6fb318c8df247fe8f5d4a2b41581aac864817"
+    },
+    {
+      "file": "followup_hypotheses/outputs/01_matched_benchmarks.png",
+      "sha256": "e090c54755600cfff66ab67b0a0aabebabfb647cfe75cc4cd5e68ac73a57b3fc"
+    },
+    {
+      "file": "followup_hypotheses/outputs/02_cumulative_payoffs.png",
+      "sha256": "0e8c3db311b163237be703c7bca83df7baf1c84be2b293524bd1371c66ce206e"
+    },
+    {
+      "file": "followup_hypotheses/outputs/03_incremental_uncertainty.png",
+      "sha256": "5508f442ef19a41b81daaa4c10de7bae1e8b6783046f3c20cc7e2f9ac88f992b"
+    },
+    {
+      "file": "followup_hypotheses/outputs/04_monthly_payoffs.png",
+      "sha256": "d699ac0c14384dfde3d0e23316484cd23d97652993a009cada5d113024fe772e"
+    },
+    {
+      "file": "followup_hypotheses/outputs/FOLLOWUP_FINDINGS.md",
+      "sha256": "117affbe556f4a0137f96515311775584a4d4e17c68ca1fce483f9f8589d1716"
+    },
+    {
+      "file": "followup_hypotheses/outputs/NYC_Weather_Followups.html",
+      "sha256": "9defd74a85b4901fda692221bd464615d5a7a3fdf86c1e04a837951073be7ad3"
+    },
+    {
+      "file": "followup_hypotheses/outputs/feasibility_samples.json",
+      "sha256": "758b179112d69fedfb30c2388a2ce10beb69b0c6da16b95536ca4d1d03d47889"
+    },
+    {
+      "file": "followup_hypotheses/outputs/independent_audit.json",
+      "sha256": "baf534b9a5a9b820b0f07343e857eadebf2b7c1f1cf96e3b5a0a7dce5a67eb1c"
+    },
+    {
+      "file": "followup_hypotheses/outputs/older_forecasts.json",
+      "sha256": "b47f4671f9e9912643798acfbac9fa6a4f64d3886080837af11e47d2fb490136"
+    },
+    {
+      "file": "followup_hypotheses/outputs/revision/annual_coverage.csv",
+      "sha256": "2fe5c2374a6b5637af5aa3fab8ff28ae19598e1f5989a8444160c808346a6310"
+    },
+    {
+      "file": "followup_hypotheses/outputs/revision/configuration.json",
+      "sha256": "340c4ec3b2d730950dc8d6a7ddd270d5078df3442014d95cd6ce3bc7868250ac"
+    },
+    {
+      "file": "followup_hypotheses/outputs/revision/daily_signals.csv",
+      "sha256": "124367a7663907f9465d14d4454133cc40108b2fca8ba692ba96ba2cb70fd4ea"
+    },
+    {
+      "file": "followup_hypotheses/outputs/revision/data_gate.json",
+      "sha256": "5fcf4289e343d50769ef99c4e4b60abaa24f54a4199add47032edcea8a2baae2"
+    },
+    {
+      "file": "followup_hypotheses/outputs/revision/eligible.csv",
+      "sha256": "f3414f4e7d0f36e9c95af05f410ebc49b3061776893557a5056a7139296fdb00"
+    },
+    {
+      "file": "followup_hypotheses/outputs/revision/excluded.csv",
+      "sha256": "9bb4b273727e852c5a17513b56d6e087345010f36f3138b465c259bc0df9e075"
+    },
+    {
+      "file": "followup_hypotheses/outputs/revision/first_evaluation_configuration.json",
+      "sha256": "340c4ec3b2d730950dc8d6a7ddd270d5078df3442014d95cd6ce3bc7868250ac"
+    },
+    {
+      "file": "followup_hypotheses/outputs/revision/fitted_models.json",
+      "sha256": "2268bf7bd1789ea734bbf6d10c362254e90d04d08ccc5261ac7c7f6782b5b77b"
+    },
+    {
+      "file": "followup_hypotheses/outputs/revision/monthly_coverage.csv",
+      "sha256": "58f5b908826b4d344612fc12b669c84199b718b738aa48caf8971f2a8caaeb41"
+    },
+    {
+      "file": "followup_hypotheses/outputs/revision/summary.json",
+      "sha256": "76b357c32d175d305f8c63cc5cf333dfcf78af8c4419493f505ed072b2dc4b8e"
+    },
+    {
+      "file": "followup_hypotheses/outputs/revision/test_metrics.csv",
+      "sha256": "d28e328e31d169eaa666075e88d7969ac460179f311443bce79f40aca2b5abc6"
+    },
+    {
+      "file": "followup_hypotheses/outputs/revision/uncertainty.csv",
+      "sha256": "2d3aadec16eba870edc5c64b439612f6cee31a1a56b3d262521a171059470b3c"
+    },
+    {
+      "file": "followup_hypotheses/outputs/revision/validation_metrics.csv",
+      "sha256": "a10922682f3ac266723ff4fda2de1f08ca936e805362965e1c02ec8537b6f61d"
+    },
+    {
+      "file": "followup_hypotheses/outputs/specification_freeze.json",
+      "sha256": "7d5704841295105fabe1107e5cf9c074c49d2e967aa048bd05fb8e80b1e5e60d"
+    },
+    {
+      "file": "followup_hypotheses/outputs/trajectory/annual_coverage.csv",
+      "sha256": "f7fd0ec1ad92705dd778332d8dc8add35cb11cdc9f0e6b3252a23d8a19bf8588"
+    },
+    {
+      "file": "followup_hypotheses/outputs/trajectory/configuration.json",
+      "sha256": "826cc0360054b441e5e21c416a9613939648479f9af7e09e72602a4aeac215d9"
+    },
+    {
+      "file": "followup_hypotheses/outputs/trajectory/daily_signals.csv",
+      "sha256": "e367d9a63dc10dd9f7baa5a6a85d879467e56f4939ea4f59cd081e1aa4b17786"
+    },
+    {
+      "file": "followup_hypotheses/outputs/trajectory/data_gate.json",
+      "sha256": "4fbd98d3575b67bc9fef5b0a5fbbbbe58a321cd67cd401aa5951b84582b64c30"
+    },
+    {
+      "file": "followup_hypotheses/outputs/trajectory/eligible.csv",
+      "sha256": "74f2d974c571e20be44aa8f60dc5926b837857266643193ec0d2258a8662578e"
+    },
+    {
+      "file": "followup_hypotheses/outputs/trajectory/excluded.csv",
+      "sha256": "d92a7da647c5ab85b9876456b2ab4f0deec5a8aaed7b784e22398a4c962a0d24"
+    },
+    {
+      "file": "followup_hypotheses/outputs/trajectory/first_evaluation_configuration.json",
+      "sha256": "826cc0360054b441e5e21c416a9613939648479f9af7e09e72602a4aeac215d9"
+    },
+    {
+      "file": "followup_hypotheses/outputs/trajectory/fitted_models.json",
+      "sha256": "ca544ba4a683f0b2ae64b98fd639ac45453a4ea7af1c47fbd9adba712032e1fd"
+    },
+    {
+      "file": "followup_hypotheses/outputs/trajectory/monthly_coverage.csv",
+      "sha256": "f5ef9fe6adc0802cd045d002bb09d9d05d1b6db5fb3a4d21c4d8c3a8490cfdd3"
+    },
+    {
+      "file": "followup_hypotheses/outputs/trajectory/summary.json",
+      "sha256": "14418e23adc6ec4c4337e3e2031c03afb4a540811faa5def5073fcd708beefe5"
+    },
+    {
+      "file": "followup_hypotheses/outputs/trajectory/test_metrics.csv",
+      "sha256": "1e59c11a783473f2e26045badb8d9567f90136e7f948a58c5b8479ebdc27fb2d"
+    },
+    {
+      "file": "followup_hypotheses/outputs/trajectory/uncertainty.csv",
+      "sha256": "4cc3bc2eaefd9589158c3a411b3a5d5b8f0c3da21cf990463c373fd564063e4b"
+    },
+    {
+      "file": "followup_hypotheses/outputs/trajectory/validation_metrics.csv",
+      "sha256": "0c93b183996f16172ce9be80e756b7b884e583cfb46ab89cc993d02fecf32648"
+    },
+    {
+      "file": "followup_hypotheses/outputs/validation_status.json",
+      "sha256": "9f8fde6521fe16ce82ef63859557169a7d84f66ca72497ea8fb5de8798a1c960"
+    },
+    {
+      "file": "followup_hypotheses/src/acquire_revisions.py",
+      "sha256": "f7f7f082c1b7746d481d744d5a30d225af6da04433c00de306962e4a8221310c"
+    },
+    {
+      "file": "followup_hypotheses/src/followup_model.py",
+      "sha256": "fc02945f63d72a2d0a3475955240262bb4afdc3262e7489412c7cba63836bc2a"
+    },
+    {
+      "file": "followup_hypotheses/src/prepare_followups.py",
+      "sha256": "59188719990f14d5a7f91c1972b3f755b3c067321569b67aa22b94a09ee05a02"
+    },
+    {
+      "file": "followup_hypotheses/src/run_followups.py",
+      "sha256": "f9c6d26e8086334514b17525027caae53c3ab9c58c9c3b119175bc9a2ad597c0"
+    },
+    {
+      "file": "followup_hypotheses/tests/test_followups.py",
+      "sha256": "098c0ddc67114213689993b9c32d7b223945229ba8e8b3da07339a7e8e19fe40"
+    },
+    {
+      "file": "outputs/01_observed_period.png",
+      "sha256": "6c8fc668d9c0f5bb0832abd7c94100e2c0f2c6f0eac34b56ac104ca0b4850fac"
+    },
+    {
+      "file": "outputs/02_temperature_response.png",
+      "sha256": "4505d5cb77be68b69ed4172636d046ea2c0c929b06dc34d23add8fd938d3a7cf"
+    },
+    {
+      "file": "outputs/03_model_errors.png",
+      "sha256": "a09da6a55113b471ed5c86777c581314a88667f53b8b6249903f12eef00679ac"
+    },
+    {
+      "file": "outputs/04_hot_hour_errors.png",
+      "sha256": "846bbdc2a00a0868a674c557abe9358c795753d20bbe53074a594a7514854772"
+    },
+    {
+      "file": "outputs/NYC_Combined_Research_Context.md",
+      "sha256": "188ed31e99dea2698162dc35374d853a17f027997836766fbef23425b6614a8f"
+    },
+    {
+      "file": "outputs/NYC_Combined_Research_Walkthrough.html",
+      "sha256": "c51d2ce0c9928351fe1a47c9f412f90d629c22c622d685ed8df947445f0ca591"
+    },
+    {
+      "file": "outputs/NYC_Weather_Electricity.html",
+      "sha256": "a228e921fa2a73d1c8aeb138fefe806da295155d0e82d3734825584297f7926f"
+    },
+    {
+      "file": "outputs/annual_coverage.csv",
+      "sha256": "ae19ac2f25cb0ffda390ceac213549783e1d2a5a5f38a4137418cfe5955052fe"
+    },
+    {
+      "file": "outputs/combined_walkthrough_manifest.json",
+      "sha256": "e9b5cc471c9734d48a599c0a7a2af1c3026930c9c7c4262b63992fd2cbf98611"
+    },
+    {
+      "file": "outputs/coverage.csv",
+      "sha256": "ef45ebc3cfe7dc51c49ddc278b179591c7c21deaa104370f3cf14e0b198ae999"
+    },
+    {
+      "file": "outputs/download_failures.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "file": "outputs/excluded_hours.csv",
+      "sha256": "8ddaa4e7ecd4bd66439700700e3c731db925d03e9d053ab0edc2b56f185068c4"
+    },
+    {
+      "file": "outputs/feasibility.json",
+      "sha256": "5171d9cd39b9230ee16a549052806405b88334ed3d32c2846cf395c6cd0129fa"
+    },
+    {
+      "file": "outputs/fitted_models.json",
+      "sha256": "b629957cf4df862fa2c68271074198165c8a56841606e43da927e05f33a6c1c0"
+    },
+    {
+      "file": "outputs/hourly_data.csv",
+      "sha256": "e66e75477c0a99dc46b4002aad89fb9f25110a48a3f00f036df57491a3c7c140"
+    },
+    {
+      "file": "outputs/missing_runs.csv",
+      "sha256": "fa7d5edbbd0d477e55a5f7e1903e9cc01e495b8c2f5e630e5d632a619abadf62"
+    },
+    {
+      "file": "outputs/residual_diagnostics.csv",
+      "sha256": "f9b8651f7156854f276c867aad06c6bf1d9678d43ec6c7f667a938f243d376a0"
+    },
+    {
+      "file": "outputs/selected_configuration.json",
+      "sha256": "2089c02f77b7495eefd4c9c983b43e95fa48938317191e9831bf5a1070cd16c5"
+    },
+    {
+      "file": "outputs/specification_freeze.json",
+      "sha256": "050db5b796e878b151018b93ff847ea569334bba6f9ebc5be570f85c7e1f2997"
+    },
+    {
+      "file": "outputs/temperature_response.csv",
+      "sha256": "4721de0d375a28415e026c2a9fdde0a72688de76fbe7a2514e2504fe612ea2ae"
+    },
+    {
+      "file": "outputs/test_metrics.csv",
+      "sha256": "51b34615046edb90b712558f793efc60557a6850e225fa537921392b49bed7d4"
+    },
+    {
+      "file": "outputs/test_predictions.csv",
+      "sha256": "acf6c9105280a6dd75b73b74c078af64055511ebe6b545d36a2a8f80d9f0b49c"
+    },
+    {
+      "file": "outputs/uncertainty.csv",
+      "sha256": "318f4cf6ca45c445ab67385e04f23ab28559690bb03ca3b9e9de9e703308d85b"
+    },
+    {
+      "file": "outputs/validation_metrics.csv",
+      "sha256": "ef6fb9db23145fa28d32122a469228b7a8d478358d3c63aea62ff293db60d699"
+    },
+    {
+      "file": "outputs/validation_status.json",
+      "sha256": "fdf7dfecd4b2ff8a89b1d7a4efe05908b73652ac6ea4b3ef5ccb7d7e4d3c38da"
+    },
+    {
+      "file": "outputs/weather_quality.json",
+      "sha256": "d49b48f29ec68c6395a3266183e8246ef11048c71b186ff364f6ab5bdbf64814"
+    },
+    {
+      "file": "price_feasibility/FEASIBILITY_BRIEF.md",
+      "sha256": "3e30c20863ace4eb07dce65f1a82280a79803bcda1f2a9edc342ccdb7dd80028"
+    },
+    {
+      "file": "price_feasibility/Feasibility_Checks.ipynb",
+      "sha256": "90cd1bd5e94ce07d7ec9b0f472f1569faf926b3091a16245e3678e78ebd797da"
+    },
+    {
+      "file": "price_feasibility/TASK_DEFINITION.md",
+      "sha256": "be545bbcad22f92a62d2340361cc8ab193d44e382c9f16c3d03647b0bcbc72cf"
+    },
+    {
+      "file": "price_feasibility/build_checks.py",
+      "sha256": "fb2d37b0676c01781db12b1dab2b9dbae18003bd5204f29606279b7eae77666e"
+    },
+    {
+      "file": "price_feasibility/check_price_lags.py",
+      "sha256": "cd51065f06bed5b920ae7573e2d47bd9f03d0a6d44bcc0543da0996996dc3ece"
+    },
+    {
+      "file": "price_feasibility/check_sources.py",
+      "sha256": "f6c33b7c7fd5f5f2febd661c2be40d7b74a56c6b50a5314bfb18b82c90083698"
+    },
+    {
+      "file": "price_feasibility/execute_checks.py",
+      "sha256": "b305f0ede01690aa7f464c717820e713a99cc71bb11f2883f684506ecc8eb7de"
+    },
+    {
+      "file": "price_feasibility/inspect_cached.py",
+      "sha256": "c20968111fa20e022ccc97a4851732ecc522120be577f09f3e2b489db7996162"
+    },
+    {
+      "file": "price_feasibility/outputs/announcements_202501_selected.json",
+      "sha256": "1206d1addcbe806325638aafd2825589862407f42b89494a7ef6872b2862d93e"
+    },
+    {
+      "file": "price_feasibility/outputs/announcements_202507_selected.json",
+      "sha256": "51411bcf677cf18e123176b74351c9021fc460349a1356df46f35503e7ad1f43"
+    },
+    {
+      "file": "price_feasibility/outputs/decision.json",
+      "sha256": "b729c3436a1c28aa197f1410ab9eab4cf9c827c733beb9b16fa7b0d0725dc8ac"
+    },
+    {
+      "file": "price_feasibility/outputs/evidence_manifest.json",
+      "sha256": "91a789d5dcc0950d2449eeba81d20c8b431873356c94c748f42da18e006c2a28"
+    },
+    {
+      "file": "price_feasibility/outputs/price_lag_probes.json",
+      "sha256": "97cde8f3a15687931d2a3cd98f71c8220c47f96d6ddfa4293161966d261e5b96"
+    },
+    {
+      "file": "price_feasibility/outputs/price_probes.json",
+      "sha256": "450498025eb38cde8945f9dde72b93739193dc3dd50f15dc32f101dad24d1671"
+    },
+    {
+      "file": "price_feasibility/outputs/weather_probes.json",
+      "sha256": "0aed19cc4d122c7646d3595e5cfdf519e3e96b446b1c850870b3b6856fab9ba1"
+    },
+    {
+      "file": "price_research/EXPERIMENT.md",
+      "sha256": "0ab13a0d72e4b4a7d79f710ab022f0cdfbf5fb9b658c51b2f2360eafb22d430d"
+    },
+    {
+      "file": "price_research/NYC_Finalized_Price_Research.ipynb",
+      "sha256": "ae928f2f25817e148c37e5e0caacc2a403cf616bd6fe4926a373aad75d91a983"
+    },
+    {
+      "file": "price_research/README.md",
+      "sha256": "28232fee7396f768d0d31af4b9f5b6ac0c31a65a7f55209d9f3a7be3cc47eacf"
+    },
+    {
+      "file": "price_research/SOURCES.md",
+      "sha256": "e813c0978e2b620f057d695303d6ebdedc7821f871e99e78d4a66eb7bf062804"
+    },
+    {
+      "file": "price_research/build_notebook.py",
+      "sha256": "bef2f48a818805f0cb143762a9de18aaf3ac4cf568d6a9a6fcbfc11bc1f134f3"
+    },
+    {
+      "file": "price_research/execute_notebook.py",
+      "sha256": "d68581df531a37be4301a208e1ef6122899a15f2a364b03c062babd4992196a7"
+    },
+    {
+      "file": "price_research/outputs/01_model_error_comparison.png",
+      "sha256": "7820ff18904cf4fecfae070138cb63f8b3c100642bb67741878c59c2e32201e6"
+    },
+    {
+      "file": "price_research/outputs/02_evaluation_year.png",
+      "sha256": "2969d48ef5b380afa052e78d4d6f7989d484add595b4650ea128e611796747dc"
+    },
+    {
+      "file": "price_research/outputs/03_monthly_improvement.png",
+      "sha256": "22119f4aa5655ad7c7966f556830ef0d3f8f6f55ffb879bbc5190fbcb538b226"
+    },
+    {
+      "file": "price_research/outputs/04_forecast_temperature_response.png",
+      "sha256": "93c7db31343cdbadbe4cc94a25e4c41d63e3675ee56431f89dba6fd6e54bbeb0"
+    },
+    {
+      "file": "price_research/outputs/NYC_Finalized_Price_Research.html",
+      "sha256": "46bb1d4b78e5577177a76cc8be2a63e82726e6396953ee2e36f0d172568de146"
+    },
+    {
+      "file": "price_research/outputs/annual_coverage.csv",
+      "sha256": "ff38c8143bde744f22d607df8eaaac91eba61b89a2f2c23c0718723de5947e88"
+    },
+    {
+      "file": "price_research/outputs/daily_data.csv",
+      "sha256": "c43cdb048b89672c986a00aab1657691b3421d85dc923493cfe3a44877f85c30"
+    },
+    {
+      "file": "price_research/outputs/data_gate.json",
+      "sha256": "5014df1253f0b19f73c6c9c05d597593321ddf47002beaa9f42674ea84c7a110"
+    },
+    {
+      "file": "price_research/outputs/excluded_days.csv",
+      "sha256": "1c7ef198fc28ce6bdbb65690f23b75226a7e682a129300ff50d440e5cd2e7d75"
+    },
+    {
+      "file": "price_research/outputs/first_evaluation_configuration.json",
+      "sha256": "2332e1ac877676ad022b44beed6bc4428b980836457b1949d397ccdb55d9be82"
+    },
+    {
+      "file": "price_research/outputs/fitted_models.json",
+      "sha256": "3dc5956da244860dc998623f57ce3459070c89522bb0448ed1bc3c04ca8b5727"
+    },
+    {
+      "file": "price_research/outputs/forecast_availability.json",
+      "sha256": "cc4239d30b2e3ace1d8d9f9265c0397acc3e5bc9aa7fbaaa4b4a57e1c6dd684f"
+    },
+    {
+      "file": "price_research/outputs/forecast_point_data.csv",
+      "sha256": "9f71d557e8e76bd7da51d3afa99d8d882853b14b4b7ece1b6ef12ed9ab5e4590"
+    },
+    {
+      "file": "price_research/outputs/forecast_temperature_response.csv",
+      "sha256": "fd5c479644dee60d8c96aab0dc7f323e1d4190ce9280ce8adb3aefb81ee9c23a"
+    },
+    {
+      "file": "price_research/outputs/gain_concentration.json",
+      "sha256": "ed15e99f0ce6da306cca5741759f2681bb627b7246103758d2178710fd2322bf"
+    },
+    {
+      "file": "price_research/outputs/grid_points.json",
+      "sha256": "ab90e88d11330c85de85d854bebf2a0bc44973ca31c4737cc938852b1516e503"
+    },
+    {
+      "file": "price_research/outputs/monthly_coverage.csv",
+      "sha256": "821713a11ba7b79e78468e2396cc983499a4483ca9b46279acce3eb94e6799bd"
+    },
+    {
+      "file": "price_research/outputs/price_source_manifest.json",
+      "sha256": "e93d7141fa6f2ef181a1c6655b34cc0fcba4da00020dc09df28b77b16133e774"
+    },
+    {
+      "file": "price_research/outputs/residual_diagnostics.csv",
+      "sha256": "dedb1a3e8c0a1aa0c1bce3264304114c3659f82bdf700a433bfe2633c7a6d0eb"
+    },
+    {
+      "file": "price_research/outputs/selected_configuration.json",
+      "sha256": "d98cbf54b1379f6f23987210de2af331e1d4e9ce5f6315b822bd6a4a57e24032"
+    },
+    {
+      "file": "price_research/outputs/specification_freeze.json",
+      "sha256": "c9088f81c401ae3c8823307e12ae04cf143faba9ba883a872ec44ec390931080"
+    },
+    {
+      "file": "price_research/outputs/summary.json",
+      "sha256": "eae4cfa23887622a71976eddee672cbf9a973b8adb14f542b7e325e2ebc09076"
+    },
+    {
+      "file": "price_research/outputs/ten_largest_baseline_errors.csv",
+      "sha256": "80489c092079182423ff48bc4ae8de449f9d6966e7912ca6ab8f0c8c0568f96c"
+    },
+    {
+      "file": "price_research/outputs/test_metrics.csv",
+      "sha256": "9938a415210870e711624de18d55d5b9ecbc24104c09104343934e93000f276f"
+    },
+    {
+      "file": "price_research/outputs/test_predictions.csv",
+      "sha256": "f4c4a4144960804d1a534cf4628ba45107fad7a0fe3fdd827a6caf275be6e7cc"
+    },
+    {
+      "file": "price_research/outputs/uncertainty.csv",
+      "sha256": "1d85575beae409e0467850d4e1e7b4d80c4051357317bad0a41e41b9ec06c0c5"
+    },
+    {
+      "file": "price_research/outputs/validation_metrics.csv",
+      "sha256": "309945e4fa6ad788f72e0b0cb5efaec269443713ab7796b99f8431a2c4bf6d24"
+    },
+    {
+      "file": "price_research/outputs/validation_status.json",
+      "sha256": "44078905a115c92bd091ecc8aeae7b527207f5f2410cd230e33db8bbbaa0030e"
+    },
+    {
+      "file": "price_research/requirements.txt",
+      "sha256": "1081b28210176f64aba223811a17e6e73a71e0dc000f31e31e0e79f8580c30fc"
+    },
+    {
+      "file": "price_research/src/acquire.py",
+      "sha256": "51dbeaf4e18287dcbf1ab608f226a22786b6f208d71432201d5180efd0c04037"
+    },
+    {
+      "file": "price_research/src/evaluate.py",
+      "sha256": "9791a6452bb33d1d9a55ad0efe9212e0ed270bb637faeb62e85f4a294aabc617"
+    },
+    {
+      "file": "price_research/src/model.py",
+      "sha256": "d617323028b96749e65ac230b94a849e22f881f817e245f9649f7e91f16122ef"
+    },
+    {
+      "file": "price_research/src/prepare.py",
+      "sha256": "4a82fc04e7669d413af673f2dc2d5cd2f529169fc0a706653219f019aad2a4f2"
+    },
+    {
+      "file": "price_research/src/run.py",
+      "sha256": "deb839deb99ca31f9f383658749e1e5a823c6bbb743166fcfe3a3bed33b0d9ed"
+    },
+    {
+      "file": "price_research/tests/test_price_research.py",
+      "sha256": "a6564c2c0ded972f907fa16634055da96ccd48c4254793fe38aa8ae67112c973"
+    },
+    {
+      "file": "requirements.txt",
+      "sha256": "99b45e16973a6d5394cb22694323ad8048d5f88210c9d6d4066b63fae89bd53d"
+    },
+    {
+      "file": "spread_backtest/EXPERIMENT.md",
+      "sha256": "ae755b476bb96496a8b604ad2ba636cbce56e257a80fbffa9e47ccd9f3225663"
+    },
+    {
+      "file": "spread_backtest/NYC_Gross_Spread_Backtest.ipynb",
+      "sha256": "5b4409049ed2095560450df249b4f3ed754b12b16e779c879cd1c43f2bcba7d8"
+    },
+    {
+      "file": "spread_backtest/README.md",
+      "sha256": "594fbf752251a29625697b5885f70ba0dc3beba5e190e288e30d24a8d3633574"
+    },
+    {
+      "file": "spread_backtest/audit_independent.py",
+      "sha256": "c321aac8f9f01f689518e644bea2c433b302cc14aec9aab0eb991b025bd4d919"
+    },
+    {
+      "file": "spread_backtest/audit_supplemental.py",
+      "sha256": "9fc4ee08e36888c25b2d17d27d54cbbdb5410fec7e24eee11ba1ea6c4d5b31b7"
+    },
+    {
+      "file": "spread_backtest/build_notebook.py",
+      "sha256": "62d50221a7f4c408b9f72285797a4d03c24f30ea03b381b46e073e5414a0bd36"
+    },
+    {
+      "file": "spread_backtest/execute_notebook.py",
+      "sha256": "415d86a5d0e3220f4436dd3088f075c330177e8968b15dec91177167738d8ae1"
+    },
+    {
+      "file": "spread_backtest/outputs/01_gross_benchmark_comparison.png",
+      "sha256": "f8ff8c10540d2bbecf658629f2943b958a90e3ec31429fde753177ab74a90164"
+    },
+    {
+      "file": "spread_backtest/outputs/02_cumulative_gross_payoff.png",
+      "sha256": "af71f4c1928251aed7c6228946153d0b56bba381d11ccc69c95ba6db2bbe716a"
+    },
+    {
+      "file": "spread_backtest/outputs/03_monthly_gross_payoff.png",
+      "sha256": "ad7607493a659e26a4815ccbda43ff190eafb1c7aecea711621fede2a8d5de78"
+    },
+    {
+      "file": "spread_backtest/outputs/04_paired_gross_uncertainty.png",
+      "sha256": "955498e5249f9e338a405263e572fb76c09057d1eb463eaf8262b8a64d335c57"
+    },
+    {
+      "file": "spread_backtest/outputs/AUDIT_REVIEW.md",
+      "sha256": "063624eeb4983facb82eb3b73ad7e580650a267a85d3777c353a6daff6c8d5fb"
+    },
+    {
+      "file": "spread_backtest/outputs/NYC_Gross_Spread_Backtest.html",
+      "sha256": "781f03babaeacd115dc0ffbf5c0dbc38077accac2f1f72b326661d7c922c0072"
+    },
+    {
+      "file": "spread_backtest/outputs/cumulative_payoff.csv",
+      "sha256": "b0e6f8cba21ca1d03c547df3bda7dde9967c9653c87c18a2441db493df3d81f4"
+    },
+    {
+      "file": "spread_backtest/outputs/eligible_data.csv",
+      "sha256": "0b0bdc09da91b7f0c3675afb86961c941620e2d9df96ce3abf77f4179ad91198"
+    },
+    {
+      "file": "spread_backtest/outputs/excluded_days.csv",
+      "sha256": "dd801e546a379148b0356c25c543ab3c299c8ec16aab75d8328ada3d9f38b9ee"
+    },
+    {
+      "file": "spread_backtest/outputs/first_evaluation_configuration.json",
+      "sha256": "24c0f2ef0cf05486c5a9fcf04c7fbf1004343625f0dedad29167c27a0c027624"
+    },
+    {
+      "file": "spread_backtest/outputs/fitted_models.json",
+      "sha256": "04d01a1e3aed5a77bfd381ab9c85867ad9bf8dd7071ce5ec8cb7dfee70c1fbe0"
+    },
+    {
+      "file": "spread_backtest/outputs/independent_audit.json",
+      "sha256": "46fa2b93e1a44a6a87822e1c79bb5a34c438dba3278b3f0a83f60c4f62cbb424"
+    },
+    {
+      "file": "spread_backtest/outputs/residual_diagnostics.csv",
+      "sha256": "33a2f3d39394401a3e39e9ffd9a54ee46db94d3f66fb3c759451e2365817b429"
+    },
+    {
+      "file": "spread_backtest/outputs/selected_configuration.json",
+      "sha256": "93acde177f1e918e27f6175dfa3c38cdd95dd074d48a5617221273d68e7b4402"
+    },
+    {
+      "file": "spread_backtest/outputs/source_snapshot.json",
+      "sha256": "8978bba87e1b8f4aa1540c87a652e7ef56932144ec3c5cf2beb198f64197e244"
+    },
+    {
+      "file": "spread_backtest/outputs/specification_freeze.json",
+      "sha256": "1fdec5e49c1b5005d8577ee43f6d40a107b444a0b256a8c84d310361096e0c53"
+    },
+    {
+      "file": "spread_backtest/outputs/summary.json",
+      "sha256": "52f4d6542ef0dab85b36006b849ea92f90f10a924920176b803b684691b2fdaf"
+    },
+    {
+      "file": "spread_backtest/outputs/supplemental_audit.json",
+      "sha256": "75500882004fd674d592c5d89e68ab37b8aa18550dfdb19ca18aba2a68b2ee32"
+    },
+    {
+      "file": "spread_backtest/outputs/ten_best_days.csv",
+      "sha256": "020d20094a69a5c407140553a0b31e6b0c681457734325b4f56a84f7d75d099c"
+    },
+    {
+      "file": "spread_backtest/outputs/ten_worst_days.csv",
+      "sha256": "e79b2b724e4a7b116a8ac7604cedf7b9802b6530c3f90e59bc750da815fe44cc"
+    },
+    {
+      "file": "spread_backtest/outputs/test_daily_signals.csv",
+      "sha256": "1af59ab3c5b71a053bad212a53c32ae063e867839b91c40094c4b6e45f39febd"
+    },
+    {
+      "file": "spread_backtest/outputs/test_metrics.csv",
+      "sha256": "2b5b8a9e631002f83057c84b32d02aebce7f0414a179601332bba183813db6de"
+    },
+    {
+      "file": "spread_backtest/outputs/uncertainty.csv",
+      "sha256": "b34ef2b3c052751c8900efec4465f1b3a9f58d7c5854fcfa56839a7b0dedd680"
+    },
+    {
+      "file": "spread_backtest/outputs/validation_metrics.csv",
+      "sha256": "aaecf9a509dc4b7d98e78b3dd1b8ffdfa9942f51c61d91cd2b7b6d02bf564111"
+    },
+    {
+      "file": "spread_backtest/outputs/validation_status.json",
+      "sha256": "ece1010a23030be5c3700ce6c7c1fd5e2c6eaa01176d47765b4e0c9be64ae667"
+    },
+    {
+      "file": "spread_backtest/requirements.txt",
+      "sha256": "1081b28210176f64aba223811a17e6e73a71e0dc000f31e31e0e79f8580c30fc"
+    },
+    {
+      "file": "spread_backtest/src/evaluate.py",
+      "sha256": "c1bac4a33007cd8eab9b1f6b28eb09996c051a3b66eaac8b97bbb984a30d454e"
+    },
+    {
+      "file": "spread_backtest/src/model.py",
+      "sha256": "c5be2fc400e7fad0e13b35dd92fa9dbecffab1d6a4d4f3858343da37c638c3b1"
+    },
+    {
+      "file": "spread_backtest/src/run.py",
+      "sha256": "a13c288390dca27e2258d208ecc1400cf42ca43819d3d6a26cc60780deab7079"
+    },
+    {
+      "file": "spread_backtest/tests/test_spread_backtest.py",
+      "sha256": "5cf2b8f48430809f6510dcc3c6885f766cebd367072ca499694a72c7206f279b"
+    },
+    {
+      "file": "src/acquire.py",
+      "sha256": "f4bbfd1c2b12a2e76d3d5a2d8148dddda6be5548b5ad3cdc4177d88fb48a37df"
+    },
+    {
+      "file": "src/evaluate.py",
+      "sha256": "c8eca6a14e97c921d41df4829703aa832ded1b5cba68ff48e4237aec72cf4313"
+    },
+    {
+      "file": "src/features.py",
+      "sha256": "f58d53106925761a1465757a3061614f92a11ba517c4661ac1c998e24c926c7f"
+    },
+    {
+      "file": "src/models.py",
+      "sha256": "bbe4eff0ae8f05f0738057a1669ce6700f4d4ab60daeaca79adf1c3b0e008f21"
+    },
+    {
+      "file": "src/prepare.py",
+      "sha256": "a20e1ead80add58ea4aab6ca453532cf2de7dfe5e43d407ed2d4187c3cb81e5b"
+    },
+    {
+      "file": "src/run.py",
+      "sha256": "85de43d7f81cb320bf52bdf2388184c3a5387f78d610feb9d7d121f94844df9d"
+    },
+    {
+      "file": "tests/test_pipeline.py",
+      "sha256": "637e6f638274b976637be5bf0ee071d06458b87d3a7dba4de045cf5dee0983ea"
+    },
+    {
+      "file": "trading_feasibility/FEASIBILITY_BRIEF.md",
+      "sha256": "625bb8ab5faeb397ecac0455db3edf41df9c7ab0c2b7d51f13104f65a3fa640d"
+    },
+    {
+      "file": "trading_feasibility/check_feasibility.py",
+      "sha256": "176f18877fe0ecf042f59c12c9df9649c44e09d675db9392059acf5a035f2541"
+    },
+    {
+      "file": "trading_feasibility/outputs/annual_coverage.csv",
+      "sha256": "a302cea426b4c02403670ee9265322b3b168f0edf8839f4ece0f75a93d40a681"
+    },
+    {
+      "file": "trading_feasibility/outputs/data_feasibility.json",
+      "sha256": "2a9d3ff7b3447fa6430e5b08bf3ff38d34dd1731a4f18be31e00432125abb4ac"
+    },
+    {
+      "file": "trading_feasibility/outputs/decision.json",
+      "sha256": "ba4ec58275f6d82e6157c20682b21af44d397cf99a3b7ca10421073b47ac2e64"
+    },
+    {
+      "file": "trading_feasibility/outputs/retrieval_failures.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "file": "trading_feasibility/outputs/source_manifest.json",
+      "sha256": "9af3f1839da25ed0a0b707f75fcbd66dca62043e6629980ec9a4ff2ee0df56fe"
+    },
+    {
+      "file": "trading_feasibility/outputs/spread_label_inventory.csv",
+      "sha256": "753e1150386a0b57393a1daab8890f352e8082242328eeb3078d5a46ca0768e1"
+    },
+    {
+      "file": "price_research/raw/forecast_2021-01-01.grib2",
+      "sha256": "79babaaee204c38042675790e7ea2c3a5fb361ad2e3887790ba68a725e14fee0"
+    },
+    {
+      "file": "price_research/raw/forecast_2021-01-01.grib2.receipt.json",
+      "sha256": "3d6cbf11ac2012f717b21b33470d1bcfdec97d856501be27ab5cb75ce2a84308"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "forecast_raw_hashes_and_header_timing": 1809,
+  "independent_raw_GRIB_point_and_metadata_samples": [
+    "2021-01-01",
+    "2021-07-15",
+    "2022-01-15",
+    "2022-07-15",
+    "2023-01-15",
+    "2023-07-15",
+    "2024-01-15",
+    "2024-07-15",
+    "2025-03-09",
+    "2025-06-24",
+    "2025-11-02",
+    "2025-12-31"
+  ],
+  "demand_MAE": {
+    "calendar": 436.3786547247936,
+    "linear": 442.98880319997204,
+    "spline": 265.1337867602567
+  },
+  "demand_improvement_percent": 39.24226497112562,
+  "price_MAE": {
+    "calendar": 35.15811028663848,
+    "linear": 35.85742178913522,
+    "spline": 29.332627300982686
+  },
+  "price_improvement_percent": 16.569385948680292,
+  "independently_recomputed_bootstrap_intervals": 15,
+  "prior_price_feasibility_samples_total": 8,
+  "prior_2025_samples": 2
+}

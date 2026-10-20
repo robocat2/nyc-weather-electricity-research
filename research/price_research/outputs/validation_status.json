@@ -1,0 +1,19 @@
+{
+  "tests_passed": 11,
+  "notebook_code_cells_executed": 7,
+  "saved_figures": 4,
+  "normal_equation_max_prediction_difference_mwh": {
+    "calendar": 2.2737367544323206e-13,
+    "linear": 4.121147867408581e-13,
+    "spline": 2.6005864128819667e-11
+  },
+  "raw_source_receipt_hashes_verified": 3678,
+  "charts": "All four PNGs visually inspected for units, values, readability and clipping.",
+  "html": "Four embedded PNGs and local links verified; full browser layout not inspected.",
+  "core_model_choices_unchanged_since_first_evaluation": true,
+  "demand_code_and_specification_unchanged": true,
+  "prior_feasibility_raw_evidence_unchanged": true,
+  "price_history_baseline_tested": false,
+  "trading_profitability_tested": false,
+  "status": "complete"
+}

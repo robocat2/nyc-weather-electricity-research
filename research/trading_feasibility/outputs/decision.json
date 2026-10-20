@@ -1,0 +1,14 @@
+{
+  "decision": "feasible_for_gross_spread_signal_research_conditional_on_clearing",
+  "data_days": 1826,
+  "forecast_eligible_days": 1809,
+  "raw_source_hashes_verified": 63,
+  "one_to_one_join_verified": true,
+  "payoff_sign_unit_check": true,
+  "prior_price_model_code_unchanged": true,
+  "models_fitted": 0,
+  "strategy_performance_calculated": false,
+  "costs_intentionally_excluded": true,
+  "executable_fills_verified": false,
+  "required_new_target": "RT integrated zonal LBMP minus day-ahead zonal LBMP"
+}

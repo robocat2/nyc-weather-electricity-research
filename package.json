@@ -1,0 +1,11 @@
+{
+  "name": "nyc-weather-electricity-research",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static research case study and reproducible Python evidence. No frontend dependencies.",
+  "scripts": {
+    "dev": "python3 -m http.server 4173 --bind 127.0.0.1 --directory site",
+    "check": "node --check site/assets/app.js && node --check site/assets/research-data.js",
+    "build": "node scripts/build.mjs"
+  }
+}

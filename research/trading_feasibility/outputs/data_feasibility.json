@@ -1,0 +1,12 @@
+{
+  "rt_monthly_archives": 60,
+  "rt_target_days": 1826,
+  "existing_da_target_days": 1826,
+  "joined_days": 1826,
+  "matched_spread_outcomes": 1826,
+  "timing_eligible_forecast_and_spread_days": 1809,
+  "models_fitted": 0,
+  "pnl_calculated": false,
+  "fees_slippage_modeled": false,
+  "failures": []
+}

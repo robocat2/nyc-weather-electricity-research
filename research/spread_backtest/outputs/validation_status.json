@@ -1,0 +1,13 @@
+{
+  "unit_tests": "9 passed",
+  "executed_notebook_code_cells": 7,
+  "notebook_errors": 0,
+  "spread_embedded_figures": 4,
+  "combined_embedded_figures": 12,
+  "figures_visually_inspected": 4,
+  "combined_anchors_and_local_links": "passed",
+  "frozen_code_and_protocol": "passed",
+  "outlier_reconciliation": "2025-06-24 DA 365.00 and integrated RT 2133.53 checked against raw official archive members",
+  "browser_layout": "Not inspected; local HTML browser access was unavailable",
+  "interpretation": "Hypothetical conditional-clearing gross payoff; no reliable alpha established; no costs or executable fills tested"
+}

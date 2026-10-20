@@ -1,0 +1,6 @@
+year,expected_days,rt_target_days,usable_forecast_and_spread_days
+2021,365,365,360
+2022,365,365,359
+2023,365,365,364
+2024,366,366,364
+2025,365,365,362

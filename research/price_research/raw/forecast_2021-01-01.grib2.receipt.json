@@ -1,0 +1,21 @@
+{
+  "url": "https://noaa-hrrr-bdp-pds.s3.amazonaws.com/hrrr.20201231/conus/hrrr.t06z.wrfsfcf41.grib2",
+  "http_status": 206,
+  "headers": {
+    "x-amz-id-2": "NizlEv/r+EXOACrTC7rO9CgYh+mWayBZgHxWBojHZdIXVliiqHN3F0CXc3rbYrelKvcPxrACWgI=",
+    "x-amz-request-id": "G19D0GV9BCJW8P0F",
+    "Server": "AmazonS3",
+    "Date": "Sat, 17 Oct 2026 01:45:22 GMT",
+    "Last-Modified": "Thu, 31 Dec 2020 07:46:37 GMT",
+    "ETag": "\"77fca2c3504bf5e9bd4fd0ae307757f0\"",
+    "Accept-Ranges": "bytes",
+    "Content-Range": "bytes 49278571-50433233/162687118",
+    "Content-Type": "binary/octet-stream",
+    "Content-Length": "1154663",
+    "Connection": "close"
+  },
+  "checked_utc": "2026-10-17T01:45:21.245717+00:00",
+  "file": "forecast_2021-01-01.grib2",
+  "bytes": 1154663,
+  "sha256": "79babaaee204c38042675790e7ea2c3a5fb361ad2e3887790ba68a725e14fee0"
+}

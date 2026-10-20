@@ -1,5 +1,5 @@
 {
-  "scope": "Curated copy; original audited file bytes preserved. Bulk raw caches and environments excluded; one GRIB test fixture included.",
+  "scope": "Curated publication snapshot. Analytical source/data/specifications preserve original bytes; three presentation files omit internal explanation instructions. Bulk raw caches and environments excluded; one GRIB test fixture included.",
   "files": [
     {
       "file": "DEMAND_STUDY.md",
@@ -23,7 +23,9 @@
     },
     {
       "file": "build_combined_walkthrough.py",
-      "sha256": "a76f6088798e6370a7257a106fcaf51d43ecf8603ee2d1749186b3818e3acce2"
+      "sha256": "3dfe7475a47175b6c8132b89c7ca6b8ea018d357a19fc643773f52e21ffc17d4",
+      "original_sha256": "a76f6088798e6370a7257a106fcaf51d43ecf8603ee2d1749186b3818e3acce2",
+      "publication_edit": "Removed internal explanation instructions only; analytical results unchanged."
     },
     {
       "file": "build_notebook.py",
@@ -239,11 +241,15 @@
     },
     {
       "file": "outputs/NYC_Combined_Research_Context.md",
-      "sha256": "188ed31e99dea2698162dc35374d853a17f027997836766fbef23425b6614a8f"
+      "sha256": "bfc3fb1009a04399af4e8096975fa6c2e4a8000442ebc72e39a8893e8b30eba2",
+      "original_sha256": "188ed31e99dea2698162dc35374d853a17f027997836766fbef23425b6614a8f",
+      "publication_edit": "Removed internal explanation instructions only; analytical results unchanged."
     },
     {
       "file": "outputs/NYC_Combined_Research_Walkthrough.html",
-      "sha256": "c51d2ce0c9928351fe1a47c9f412f90d629c22c622d685ed8df947445f0ca591"
+      "sha256": "d5d4dfaac30324f27008fcd53ae10eb56fb77fb31913fd040d453c9225ef18d2",
+      "original_sha256": "c51d2ce0c9928351fe1a47c9f412f90d629c22c622d685ed8df947445f0ca591",
+      "publication_edit": "Removed internal explanation instructions only; analytical results unchanged."
     },
     {
       "file": "outputs/NYC_Weather_Electricity.html",

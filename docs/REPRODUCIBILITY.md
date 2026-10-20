@@ -1,6 +1,6 @@
 # Reproduction and audit scope
 
-The repository is a curated copy of the completed local NYC research. `docs/research_snapshot_manifest.json` lists original relative paths and SHA-256 values. Source code, frozen specifications, notebooks, derived data, predictions, coverage/exclusion tables, metrics and audit records are retained. File bytes in the research snapshot were not edited for presentation.
+The repository is a curated copy of the completed local NYC research. `docs/research_snapshot_manifest.json` lists original relative paths and SHA-256 values. Source code, frozen specifications, notebooks, derived data, predictions, coverage/exclusion tables, metrics and audit records are retained. Analytical code, specifications and data retain their original bytes. Three presentation files omit internal explanation instructions; the manifest records original and publication hashes for those text-only edits.
 
 ## Available without reacquisition
 

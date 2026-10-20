@@ -4,7 +4,7 @@ Reviewed October 19, 2026. This record covers the new website and curated reposi
 
 ## Analytical integrity
 
-- All 192 copied research files match their original SHA-256 records (including the two fixture files).
+- All research files match the publication manifest. Analytical code, specifications and data retain original bytes; three presentation files omit internal explanation instructions, with both hashes recorded.
 - Website demand/price errors and percentage improvements reconcile to the original overall metric rows.
 - Every original 2025 cumulative payoff point reconciles to independently calculated direction × (RT − DA) and sums to its displayed strategy total.
 - Follow-up primary variants and different cohort sizes are preserved. No comparison ranks their raw totals across cohorts.

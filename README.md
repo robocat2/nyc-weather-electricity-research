@@ -91,4 +91,4 @@ The daily price model can be refitted from bundled derived inputs with `cd resea
 - [Independent audit](research/spread_backtest/outputs/AUDIT_REVIEW.md) · [follow-up audit results](research/followup_hypotheses/outputs/independent_audit.json).
 - [Original-file snapshot manifest](docs/research_snapshot_manifest.json) · [website-data provenance](site/evidence/provenance.json).
 
-Research files are copied byte-for-byte from the audited original; presentation files are separate. The original completed portfolio ZIP remains untouched. Follow-ups are included as an explicitly separate extension. Raw-source acquisition URLs remain in the original code and documentation.
+Analytical code, specifications and data are preserved from the audited original. Presentation exports omit internal explanation instructions; the snapshot manifest records those text-only edits. The original completed portfolio ZIP remains untouched. Follow-ups are included as an explicitly separate extension. Raw-source acquisition URLs remain in the original code and documentation.

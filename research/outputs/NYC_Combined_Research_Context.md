@@ -46,9 +46,6 @@ Parts I and II retain their original conclusions from before the trading extensi
 
 Delivery is normally 38 hours after the prediction cutoff (37/39 over DST), but the auction price is published the prior morning before delivery. The delivery horizon is not the same as time until price revelation.
 
-## Instructions for another ChatGPT explaining this file
-Use this file as the combined evidence for all three NYC stages. Explain the progression before discussing technical details. Distinguish observed-weather demand modeling from forecast-weather price prediction. State that demand estimates were not price-model inputs. Explain 39.2% and 16.6% as separate error reductions, not returns. Include failures and uncertainty, identify the calendar-only baseline, disclose prior 2025 exposure, and distinguish the conditional gross trading test from proven alpha or net profitability. Explain the unsuccessful benchmark comparison and concentration in one day. Use the embedded results and figures for interactive explanations; do not invent observations or scenario probabilities.
-
 ## Complete studies and methods follow
 The full executed demand walkthrough comes first, followed by the full executed price walkthrough and gross spread backtest. Source notes, experiment specifications and the original feasibility decision are included at the end. No modeling or results were changed when combining these documents.
 

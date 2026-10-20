@@ -8,7 +8,7 @@ def rows(path):
 def snapshot():
  text=(ROOT/'site/assets/research-data.js').read_text();return json.loads(text.removeprefix('window.RESEARCH = ').removesuffix(';\n'))
 class SiteTests(unittest.TestCase):
- def test_all_research_snapshot_files_unchanged(self):
+ def test_all_research_files_match_publication_manifest(self):
   m=json.loads((ROOT/'docs/research_snapshot_manifest.json').read_text())
   for item in m['files']:
    self.assertEqual(hashlib.sha256((ROOT/'research'/item['file']).read_bytes()).hexdigest(),item['sha256'],item['file'])
